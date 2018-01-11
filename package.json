@@ -1,0 +1,24 @@
+{
+  "name": "search-eng",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "clean-deep": "^3.0.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.5.2",
+    "elasticlunr": "^0.9.5",
+    "express": "~4.14.0",
+    "in-array": "^0.1.2",
+    "lodash": "^4.17.4",
+    "morgan": "~1.7.0",
+    "natural": "^0.5.4",
+    "serve-favicon": "~2.3.0",
+    "stopword": "^0.1.8",
+    "stopwords": "0.0.5"
+  }
+}

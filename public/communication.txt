@@ -1,0 +1,1906 @@
+INFORMATION AND COMMUNICATION
+TECHNOLOGY (ICT) AND DISABILITY
+
+Toolkit on disability for AFRICA
+
+INFORMATION AND COMMUNICATION
+TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+TABLE OF CONTENTS
+
+1.	OVERVIEW..................................................................................................................................................... 1
+2.	 TECHNICAL CONTENT.......................................................................................................................... 3
+2.A	Background..............................................................................................3
+2.B	 Legal Framework......................................................................................4
+2.C	 Making ICT Inclusive for Persons with Disabilities......................................... 6
+2.D	 Policy Tools to Promote Inclusive ICT for Persons with Disabilities............11
+	
+
+Country Checkpoint................................................................................11
+
+2.E	 Promoting ICT Accessibility with DPOs....................................................15
+
+3.	 SUMMARY & KEY LEARNING POINTS...................................................................................17
+4.	 USEFUL RESOURCES..........................................................................................................................18
+4.B. Appendix A: Specific Applications and Services for Various Types of
+Disabilities and Situations........................................................................20
+
+5.	 LEARNING ACTIVITIES......................................................................................................................22
+Session Sheet for the Trainer – ICT and Disability, Session 1............................23
+Learning Activity 2.A: The Importance of ICTs...........................................24
+Learning Activity 2.B: Member States’ Obligations on the Provision of ICT... 25
+Handout: CRPD Article 2: Definitions......................................................26
+Handout: CRPD Article 9: Accessibility....................................................27
+Handout: CRPD Article 21: Freedom of Expression and Opinion, and
+Access to Information.............................................................................28
+Session Sheet for the Trainer – ICT and Disability, Session 2............................29
+Learning Activity 2.C.: Fostering Social Inclusion.....................................30
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+iii
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Acknowledgements
+The Division for Social Policy and Development (DSPD) would like to thank all those who
+contributed to the Toolkit on Disability for Africa, including the United Nations Office for
+the High Commissioner for Human Rights (OHCHR), the Economic Commission for Africa
+(ECA), the International Labour Office (ILO), the International Training Centre - ILO (ITCILO),
+the World Health Organization (WHO), the African Union and the governments of Kenya,
+South Africa and Zambia. DSPD also wishes to thank the Government of Italy for its
+financial support and the numerous African Disabled Peoples Organizations (DPOs) who
+contributed substantial input to the Toolkit.
+
+iv
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+List of acronyms
+AT	
+
+Assistive Technology
+
+CEDAW	
+
+Committee on the Elimination of Discrimination against Women
+
+CEDAW	
+
+Convention on the Elimination of All Forms of Discrimination against
+Women
+
+CESCR	
+
+Committee on Economic, Social and Cultural Rights
+
+CRPD	
+
+Convention on the Rights of Persons with Disabilities
+
+CRPD	
+
+Committee on the Rights of Persons with Disabilities
+
+CRC	
+
+Committee on the Rights of the Child
+
+CRC 	
+
+Convention on the Rights of the Child
+
+CRC 	
+
+Convention on the Rights of the Child
+
+DFIs	
+
+Development Financing Institutions
+
+DPOs	
+
+Disabled Persons Organizations
+
+DSPD	
+
+Division for Social Policy and Development/UNDESA
+
+EC	
+
+European Commission
+
+G3ICT	
+
+Global Initiative for Inclusive ICTs
+
+HIV/AIDS	
+
+Human Immunodeficiency virus / Acquired Immunodeficiency Syndrome
+
+ICCPR	
+
+International Covenant on Civil and Political Rights
+
+ICESCR	
+
+International Covenant on Economic and Cultural Rights
+
+ICF	
+
+International Classification of Function, The World Health Organization
+
+ICT	
+
+Information and Communication Technology
+
+ILO	
+
+International Labour Organization
+
+ITCILO	
+
+International Training Centre of the ILO
+
+IPU	
+
+Inter-Parliamentary Union
+
+ITC	
+
+Information and Communication Technology
+
+ITU	
+
+International Telecommunication Union
+
+MDGs	
+
+Millennium Development Goals
+
+MFIs	
+
+Microfinance institutions
+
+MSPs	
+
+Multi-stakeholder Partnerships
+
+NAPs	
+
+National Action Plans
+
+NGO	
+
+Non-Governmental Organization
+
+NVDA	
+
+Non Visual Desktop Access
+
+OHCHR	
+
+Office of the High Commissioner for Human Rights
+
+OSISA 	
+
+Open Society Initiative for Southern Africa
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+v
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+vi
+
+PCM	
+
+Project Cycle Management
+
+PRP	
+
+Protracted Relief Programme
+
+SABE	
+
+Self-Advocates Becoming Empowered
+
+SDGs	
+
+Sustainable Development Goals
+
+UDHR	
+
+Universal Declaration of Human Rights
+
+UN	
+
+United Nations
+
+UN DESA	
+
+United Nations Department of Economic and Social Affairs
+
+UNAIDS	
+
+Joint United Nations Programme on HIV/AIDS
+
+UNDP	
+
+United Nations Development Fund
+
+UNESCO	
+
+United Nations Educational, Scientific and Cultural Organization
+
+UNICEF	
+
+United Nations Children's Fund
+
+USAID	
+
+United States Agency for International Development
+
+VOCA	
+
+Voice Output Communication Aids
+
+WHO	
+
+World Health Organization
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+1.	OVERVIEW
+Module objectives
+►► To highlight the role of information and communication technologies (ICT) in
+fostering the social inclusion of persons with disabilities in all aspects of life.
+
+Who is this module for?
+This module is relevant to everyone who has an interest in disability or a responsibility
+for addressing issues of disability because of the nature of their work, including persons
+with or without disabilities in civil society, civil and public service, national human rights
+institutions, parliaments, development agencies, universities and the private sector.
+
+What is this module about?
+This module:
+
+►► examines the role of ICTs in the inclusion of persons with disabilities;
+►► reviews the accessibility barriers that limit their access and usage;
+►► reviews key provisions of the CRPD promoting ICT usage for persons with
+disabilities, ICT accessibility and assistive technologies;
+
+►► describes how information and communication technologies (ICTs) offer
+
+opportunities for fostering the social inclusion of persons with disabilities in all
+aspects of life;
+
+© ILO/A.Fiorente
+
+►► identifies approaches for making ICT inclusive for persons with disabilities;
+►► highlights key areas of policy-making to implement relevant CRPD requirements;
+►► provides guidance on key success factors for implementation;
+►► includes learning exercises to accompany the material; and
+►► lists key resources for additional reference.
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+1
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Learning objectives
+On completion of this module, participants will have:
+1.
+
+reflected on what information and communication technologies (ICTs) are, and
+how they contribute to the inclusion of persons with disabilities;
+
+2.
+
+discussed the key provisions of the CRPD promoting ICT usage;
+
+3.
+
+considered Member States’ responsibilities for the provision of ICT for persons
+with disabilities;
+
+4.
+
+described how ICTs can foster the social inclusion of persons with disabilities in
+all aspects of life;
+
+5.
+
+identified approaches for making ICT inclusive for persons with disabilities.
+
+Module map
+1. OVERVIEW
+
+2. TECHNICAL
+CONTENT
+
+2.A Background
+
+2.D Policy Tools to
+Promote Inclusive
+ICT for Persons with
+Disabilities
+
+2.C Making ICT
+Inclusive for Persons
+with Disabilities
+
+2.B Legal Framework
+
+2.E Pomoting ICT
+Accessibility with
+DPOs
+
+2
+
+3. Summary &
+Key Learning
+Points
+
+4. Useful
+Resources
+
+5. Learning
+Activities
+
+4.B Appendix A: Specific
+Applications &
+Services for Various
+Types of Disabilities
+and Situations
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+2.	 TECHNICAL CONTENT
+2.A	Background
+Definition
+ICT (Information and Communications Technology - or Technologies) include any
+communication device or application such as radio, television, cellular phones, computers,
+satellite systems as well as network hardware and software and associated services.
+
+Information and communication technologies (ICT), when accessible and available, can
+serve as critical enablers that allow persons with disabilities to realise full and effective
+opportunities to participate, on the basis of equality, in all aspects of society and
+development.2 ICTs can help persons with disabilities have a greater access to knowledge
+and independent living. However, there are a few principles that should be taken into
+consideration while introducing ICTs. Whether one is considering the respective needs
+of rich and poor, rural and urban, those with access to the internet and those without
+(the digital divide), ICT has the power to bring people together but, where persons with
+disabilities lack access to ICTs, they can also leave people behind. Wi-Fi access is essential,
+as is access to a stable electrical supply. Technology advances quickly and ICT can quickly
+become obsolete (and examples provided given in the present module may also quickly
+become dated).
+
+See Learning Activity 2.A. titled The Importance of ICTs
+
+There are general basic principles that should be applied in respect of ICT and disability;
+first, ICTs needs to be accessible to all persons and not just to persons with disabilities. All
+persons ought to be able to access ICTs that help facilitate communication in different
+cultural, educational, and professional situations. Another principle is that particular
+forms or approaches to ICT should reflect the goal of fostering greater participation
+and inclusion. Where possible, technologies ought to be designed to be as inclusive as
+possible of everybody, as opposed to further development of certain technologies that
+would only be used specifically by persons with disabilities.
+A further important principle relates to the level of independence and control persons
+with disabilities have in their use of ICTs. Indeed all people, including those with
+disabilities, have personal preferences for particular technologies and ought to be able to
+choose the ICT that best serves them.
+These general principles may guide decisions about the types of technologies that should
+be used.
+
+	
+	
+
+1
+2
+
+http://searchcio.techtarget.com/definition/ICT-information-and-communications-technology-or-technologies
+United Nations Expert Group Meeting on Building Inclusive Society and Development through Promoting ICT
+Accessibility: Emerging Issues and Trends (Tokyo Japan, 19-21 April 2012), available at:
+http://www.un.org/disabilities/default.asp?navid=46&pid=1596#backgroundnote
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+3
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+2.B	
+
+Legal Framework
+
+A remarkable aspect of the Convention on the Rights of Persons with Disabilities (CRPD) is
+the way it identifies the need to ensure the accessibility of ICTs and the promotion of the
+usage of ICTs and assistive technologies for persons with disabilities.
+Accessibility is one of eight fundamental principles3 in the CRPD. It is defined as a
+precondition for persons with disabilities to enjoy all rights and fundamental freedoms,
+including the rights to life and liberty, education, employment, cultural materials, sports
+and entertainment, political participation and movement.
+Article 9 of the CRPD
+For the first time in the history of disability law, Article 9 of the CRPD specifically highlights
+the obligation of Member States to ensure access to information and communication
+technologies (ICTs) at large on a par with the physical environment and transportation,
+thereby acknowledging the importance and universality of ICT application across all
+domains of life in today’s information age.
+
+See Learning Activity 2.B. titled
+Member States’ Obligations on the Provision of ICT
+
+The Importance of Access to ICT in the CRPD
+Article 9 of the Convention explicitly articulates the right of persons with disabilities to
+access information and communications technologies on an equal basis and without
+discrimination. Furthering the definition of accessibility including ICTs, “Communication”
+is defined by the Convention as “including all possible means of communication that
+may eliminate barriers; the term includes languages, display of text, braille, tactile
+communication, large print, accessible multimedia as well as written, audio, plainlanguage, human-reader and augmentative and alternative modes, means and formats
+of communication, including accessible information and communications technologies”
+(Article 2). The CRPD also calls on Member States to encourage the private sector to deliver
+accessible products and services. It recommends provision of reasonable accommodation4
+and states that denial of reasonable accommodation itself is a form of discrimination.
+Accessibility provisions include general ICT accessibility requirements as per Article 9 as well as
+domain-specific accessibility stipulations found in different articles. These can be implemented
+by Member States through the adoption of a variety of measures targeted on holistic solutions
+both by framing and amending policies to make them inclusive, and by formulating specific
+policies to emphasise the need for accessibility. For instance, on the one hand the national
+policy for information and communication technology or e-governance should include a
+provision which identifies accessibility as one of the principles of the policy with specific
+strategies to address it, while on the other hand Member States may also formulate a separate
+policy which addresses in detail various aspects of ICT accessibility such as website or content
+accessibility, and clearly adopts standards and mandates adherence.
+	
+	
+
+3
+4
+
+4
+
+Article 3 of the Convention.
+According to Art. 2 of the CRPD, “Reasonable accommodation means necessary and appropriate modification
+and adjustments not imposing a disproportionate or undue burden, where needed in a particular case, to
+ensure to persons with disabilities the enjoyment or exercise on an equal basis with others of all human rights
+and fundamental freedoms;” http://www.un.org/disabilities/default.asp?id=262
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Specific Provisions on ICT Accessibility – Examples of Implementation
+Some of the CRPD’s specific provisions on ICT accessibility direct State parties to the
+following:
+Provision
+
+Example
+
+Ensure that persons with disabilities have
+equal access to the physical environment,
+transportation, information and
+communications, including information and
+communications technologies and systems
+(Article 9)
+
+Examples of implementation include
+amending building by-laws to include
+physical accessibility stipulations, adopting
+mandatory national standards for web
+accessibility and rolling out large-scale
+training programmes for developers of public
+websites on web accessibility
+
+Promote research, development and
+availability of new technologies suitable for
+persons with disabilities at affordable cost
+that will facilitate living and inclusion within
+the community; this includes ICTs, mobility
+aids, devices and assistive technologies.
+(Article 4 (G))
+
+An example of this would be for Member
+States to customise existing assistive
+technologies in local languages and make
+them available at no or affordable costs.
+
+Provide all information and communication
+in accessible formats, including cultural
+materials and television (Article 30)
+
+Member States can do this by amending
+their Copyright Acts to permit conversion
+of all books into accessible formats for the
+benefit of persons with disabilities without
+the necessity of seeking permission, ensuring
+that all curriculum and publications are
+available in accessible electronic text and
+Braille/large print, promoting captioning for
+television serials, etc.
+
+Promote accessibility of education, which
+include modes of communications, assistive
+technology etc. (Article 24)
+
+This can be done by ensuring that adequate
+policies and programmes are launched
+to provide children in primary and higher
+education centres with access to assistive
+technology, accessible content, trained
+teachers and resource centres
+
+Ensure the right to work and employment on
+an equal basis with others, providing a just
+favourable and equitable work environment
+(Article 27).
+
+Member States should actively promote
+equal opportunity work policies and the
+employment of persons with disabilities
+in both the public and private sectors and
+provide support to employers for workplace
+accommodation.
+
+Make international cooperation accessible
+to persons with disabilities and promote
+the sharing of accessible and assistive
+technologies.5 (Article 32)
+
+One example would be for countries to sign
+and ratify the Marrakesh Treaty6 to promote
+international exchange of books in accessible
+formats.
+
+For instance, a project to customise the open
+source text-to-speech synthesiser e-Speak
+into any African language is a project which
+should take about 8-10 months and would
+immediately render indigenous voices available
+free of cost for bundling with screen readers
+such as NVDA or with mobile phones. Not only
+would this open up communication for those
+who cannot afford commercial screen readers
+or do not know English, but would also benefit
+non-disabled rural and illiterate mobile users.
+
+	http://www.un.org/disabilities/default.asp?id=259	
+	http://www.wipo.int/treaties/en/ip/marrakesh/
+
+5
+6
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+5
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+2.C	 Making ICT Inclusive for Persons with Disabilities
+This section will start by giving a few examples of the kinds of situation which hinder
+access for persons with disabilities and then describe how these can be addressed.
+
+zz You wake up in the morning and couldn’t read your clock or agenda on your
+mobile phone.
+zz You are watching television, but cannot hear what the people on the screen are
+saying.
+zz You want to call your mobile service provider to enquire about your mobile bill, but
+are confronted with an interactive automated system which you cannot hear or
+understand and there is no one you can talk to.
+zz A fire breaks out in your building but you are trapped inside alone because you
+couldn’t hear the evacuation announcement.
+zz You cannot read Automated Teller Machine (ATM) instructions or cannot reach the
+keyboard from your wheelchair and must give your PIN number to a stranger to
+retrieve cash at an ATM.
+zz You are trying to find information about a government service online but
+cannot read the document as it is an image file which your screen reader cannot
+understand and you cannot see the screen on your own.
+zz You are trying to navigate a web page but the constant flickering makes it difficult
+for you to concentrate and the complex layout of the information makes it difficult
+for you to understand what is being communicated.
+
+ICT Inclusivity
+ICTs have become the leading medium for communicating, transacting, informing,
+educating and entertaining all over the world. Usage of technologies such as television,
+radio, fixed and especially mobile telephony, has become a basic and indispensable
+feature in the lives of people across the globe. Subscriptions to mobile services worldwide
+are estimated to total seven billion at the end of 2015, of which 10% were in Africa.
+Internet usage has fast expanded with an estimate of over three billion users in 2015, of
+which 20% are in Africa. Every country and region of the world is benefiting from ICT’s
+opportunities for economic and social development. It is hence imperative to ensure that
+persons with disabilities are not excluded from the use and benefits of ICTs.
+A recent report issued for the High Level Meeting on Disability and Development held at
+the United Nations in September 2013 ranks the importance of ICTs for the inclusion of
+persons with disabilities as follows7:
+
+See Learning Activity 2.C. titled
+Fostering Social Inclusion
+
+	
+
+7
+
+6
+
+Source: ITU-G3ict-IDA-UNESCO-Microsof Report “The ICT Opportunity for Persons with Disabilities”	
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Scale: 5 = most important to
+Websites Mobiles
+1 = least important
+
+TV sets
+
+Radio
+
+Other
+
+Healthcare
+
+3.3
+
+3.1
+
+2.9
+
+2.5
+
+2.7
+
+Primary education
+
+3.0
+
+2.6
+
+2.8
+
+2.3
+
+2.9
+
+Secondary education
+
+3.4
+
+3.0
+
+2.7
+
+2.3
+
+2.8
+
+Tertiary, prof., lifelong education
+
+3.7
+
+3.4
+
+2.9
+
+2.4
+
+2.8
+
+Employment
+
+3.7
+
+3.3
+
+2.5
+
+2.2
+
+2.7
+
+Independent living
+
+3.4
+
+4.6
+
+2.8
+
+2.4
+
+2.8
+
+Government services
+
+3.5
+
+3.0
+
+3.0
+
+2.3
+
+2.6
+
+Participation: Political & public life
+
+3.3
+
+3.1
+
+2.7
+
+2.5
+
+2.6
+
+While ICTs and ICT applications and services can raise insurmountable barriers if
+not designed in an accessible way, new ICT solutions can also bring unprecedented
+supportive solutions for persons with disabilities: text-to-speech helps millions access
+the digital version of otherwise inaccessible print documents, GPS technology, image
+recognition, near field communications and Internet connectivity are new generating
+technologies supporting multiple innovations for independent living. The table above
+shows how much mobile technologies in particular contribute to the empowerment of
+persons with disabilities.
+For ICTs to fulfil their promises for persons with disabilities and for Member States to
+comply with the CRPD, ICTs must be developed and deployed in a manner that is
+accessible to accommodate all types of impairment. The practical question for policymakers is what those accessible solutions are. And since different groups face different
+challenges, how can all the different considerations be incorporated, especially if different
+requirements are needed (for instance the blind need audio or tactile output, while the
+deaf need texts or graphics). An additional crucial consideration is that, in the African
+context, particularly in rural areas, access to electricity - which is often required for the
+use of ICTs - may be lacking,.
+
+ICTs Accessibility Basic Principles
+Remarkably, solutions exist and have in fact been implemented around the world
+addressing most disabilities. This section briefly explains what ICT accessibility and
+assistive technologies are and the importance of specific standards which have been
+developed for different technologies, services and content. In general, ICT products,
+content and services can be made accessible to most users with disabilities if there
+is provision for alternative modes of interaction; outputs in multiple possible formats;
+customization of configuration and settings; and compatibility with assistive technology.
+Accessible interfaces are characterized by three basic principles. The user must be able to:
+
+►► perceive it (awareness and access to contents displayed);
+►► understand it (know what it means and how to interact with it);
+►► operate it (be able to interact with it in a certain way to produce intended/desired
+results).
+
+To design accessible ICTs it is essential to consider the user perspective in all aspects
+- from the way equipment is designed to its use and where it is located or placed. The
+e-Accessibility Policy Toolkit for Persons with Disabilities defines ‘accessibility’ as:
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+7
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+A measure of the extent to which a product or service can be used by a person with a disability
+as effectively as it can be used by a person without that disability’8.
+In simple terms, a product is accessible if it can be used by everyone equally, including
+persons with all types of disability. While the task of ensuring that a product or service is
+completely accessible may sound challenging, it need not necessarily be so. For instance,
+the International Telecommunication Union (ITU) standard of merely providing a raised
+dot on the number 5 on the numeric key pad of phones is a great accessibility aid for
+blind persons to navigate and use phones. Similarly providing textual descriptions for
+images on websites (to aid blind persons using screen readers or persons with cognitive
+or comprehension problems) or pictorial address books, and text or video messaging
+service for the illiterate or deaf respectively, are extremely critical and easy accessibility
+features which can be incorporated without much difficulty.
+
+Assistive technologies
+On the other hand, certain types of disability require that assistive technologies be used
+to facilitate the interaction of the user with the ICT device. This may include alternative
+input devices for persons with reduced mobility, screen readers for visually impaired
+persons, augmentative (used to supplement natural speech rather than replacing it)
+and alternative (non-speech) communications solutions for speech- or writing-impaired
+persons, or icon-based interfaces for cognitively-impaired users, to name a few. Typically,
+the provision of assistive technologies requires a significant amount of service by
+qualified professionals including user assessment, selection of solutions, training, support
+and maintenance. Assistive technologies are primarily promoted through schools and
+universities, rehabilitation centres and as part of workplace accommodation services. In
+some cases persons with disabilities have access to these technologies while they are
+within these facilities, but not during the portions of their day they spend elsewhere.
+When those assistive technologies interact with devices and electronic content, issues
+of interoperability are critically important: the Web Content Accessibility Guidelines of
+the Worldwide Web Consortium, for instance, covers a wide range of disabilities and
+interaction. A screen reader can only read a web page if its content is designed and edited
+in an accessible format. A switch used by a paralyzed user may only operate if a web
+application allows full control via the traditional keyboard of a computer.
+While assistive technologies cover a wide spectrum of solutions, increasingly applications
+are being developed to address a variety of daily living needs which can be downloaded
+and used with mobile phones. Some examples of accessibility and supportive features for
+different disabilities are given in Appendix A.
+
+8
+
+	
+
+e-Accessibility Policy Toolkit for Persons with Disabilities, available at
+http://www.e-accessibilitytoolkit.org/toolkit/eaccessibility_basics/accessibility_and_the_purposes_of_icts
+
+	
+
+8
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Making the National Information Infrastructure Inclusive of
+Persons with Disabilities
+As the usage of ICTs become pervasive, policy makers can considerably improve the lives
+of persons with disabilities by ensuring that their national information infrastructure is
+made accessible. Such approach does not create additional cost to governments other
+than ensuring that the proper standards and methods are implemented by service
+providers, e-government agencies and by leading private sector content providers.
+Channel
+Mobile
+Phones
+
+Description
+
+Intervention areas
+
+Mobile phones are a critical tool for
+persons with disabilities: they provide
+instantaneous access to information
+anytime at any location. The success
+of the mobile phone in Africa and
+the increasing number of mobilebased services available to citizens
+across the continent underscore the
+importance of making mobile phones
+and services accessible and useful to
+persons with disabilities. There are four
+primary areas in which accessibility
+interventions can be made – handset,
+software, services and content.
+
+Handset accessibility can be achieved through:
+1.	 General features available on any phone such as visual or vibrating
+alerts and adjustable volume control for persons with hearing
+disabilities; tactile indicators such as the raised dot on the number
+5 to aid in orientation and navigation for persons with blindness
+and low vision; voice recognition, auto text and touch screen for
+persons with dexterity problems, etc.
+2.	 Specific exclusive features such as screen readers, text-to-speech
+software and screen magnifiers, and candy bar design to avoid
+extra movements.
+Software Accessibility can come either bundled with the operating
+system of the handset itself e.g. Android’s screen reader Talk Back,
+Windows Eyes with Microsoft Office, or via third party applications for
+screen reading as well as different functions.
+Services: Examples of services and facilities which can be used by
+persons with disabilities include digital libraries for the blind like
+Open Library, Relay services enabling deaf communication over the
+phone, and also mainstream services such as multimedia and text
+messaging, video conferencing, captioning (phones such as i phones
+support playing of movies with captioning) etc., are also very useful.
+Additionally, even customer care services shouldbe accessible to
+persons with disabilities.
+Content: While mobile phones offer a means of accessing content
+over the internet and via phone, it is important that these should
+adhere to web accessibility standards such as WCAG 2.0. For example,
+bill payments in accessible formats, advertisements including
+voice, text and multimedia as per the choice of the user, video and
+audio clips on U-tube and television with captions/subtitles and
+descriptions, will be completely accessible to persons with disabilities.9
+
+Television
+
+Television cannot be enjoyed by
+persons with vision and hearing
+impairments since its usefulness
+is dependent on sight and sound.
+Accessibility of TV10 requires universal
+design.
+The two main areas deserving attention
+to make TV viewing accessible are
+the equipment and the programme
+content.
+
+Captions/Subtitles: Words displayed on a television screen that
+interprets the audio of a programme to let viewers who are deaf or
+hard of hearing understand the dialogue and action of a programme
+at the same time. Captions are of two types, closed (set by decoder
+and optional to viewer) and open (always on)
+Tele-text: refers to the inclusion of text information (News, Weather,
+Closed Captions etc.) by encoding it within a broadcast television
+signal. Special decoders or TV sets with integrated tele-text decoders
+can receive and display the data on the TV screen.
+Sign language: Sign language interpretation comprising the use
+of manual gestures, facial expression and body language to convey
+meaning is useful for people who are deaf and for whom sign is their
+primary language.
+Audio description: audio description describes what is happening
+on the screen. This could be changes of location, actions, facial
+expressions, gestures and so on to convey the context and set the
+scene. They are inserted between dialogues to avoid interrupting the
+flow of the programme.
+Equipment accessibility: includes accessibility of the remote control
+(simple and easy to use) and the set-top box both in terms of the
+remote control as well as the content - a visually impaired user should
+for instance have the option of obtaining audio feedback while
+navigating through the menu.
+
+ITU and G3ict, “Making Mobile Phones and Services Accessible for Persons with Disabilities”, available at
+http://cis-india.org/accessibility/making-mobile-phone-and-services-accessible-for-persons-with-disabilities.pdf
+10
+	 Based on Making Television Accessible Report by ITU’ and G3ict available at
+http://www.itu.int/ITU-D/sis/PwDs/Documents/ITU-G3ict%20Making_TV_Accessible_Report_November_2011.pdf
+9
+
+	
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+9
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Channel
+Internet
+
+Description
+
+Intervention areas
+
+Web accessibility11 is critical for persons
+with disabilities, as an inaccessible
+website cannot be read irrespective of any
+available assistive technology.
+
+Some important web accessibility considerations are:
+
+For a website to be accessible, it must
+adhere to the Web Content Accessibility
+Guidelines (WCAG) 2.012 formulated
+by the World Wide Web Consortium,
+which form the universal basis for web
+accessibility. The WCAG 2.0 is based on 4
+principles13:
+
+►► Creation of links to skip to content can provide persons using
+
+Perceivable: the user must be able to
+perceive the content through the senses
+- sight or hearing - either through the
+browser or with assistive technology such
+as screen readers.
+
+►► Text descriptions and explanations should be provided for
+
+images and graphics on web pages so that they can be read by
+screen readers.
+screen readers with a huge relief for from listening to a whole
+lot of useless or confusing content.
+
+►► Every function which has to be executed with a mouse should
+have a keyboard alternative.
+
+►► Links without any specific destination or without references
+
+such as “click here” should be avoided; there should not be sole
+reliance on colours to convey meanings.
+
+►► Since screen readers read content as it is in the code, web-page
+creators should ensure that content is read correctly on the
+page as well as in the code.
+
+Operable: users should be able to interact
+with all controls and perform all functions
+through the keyboard, mouse or a
+supportive device.
+Understand: users should understand the
+function/ content and how to use it.
+Robust: a wide range of technologies and
+user agents should be able to access the
+content.
+E-Publishing
+
+There are several standards for document
+accessibility such as Daisy and e-Pub,
+or even basic HTML or text which are
+completely accessible to persons using
+assistive technology.
+As a priority, such standards should
+be implemented in education and
+government.
+
+Daisy14 stands for Digital Accessible Information System and is an
+international accessible multimedia publishing system. It provides
+digital books to persons with print disabilities in an accessible,
+feature-rich and navigable format. While other e-texts are in a single
+format, a Daisy book can include multiple formats such as text,
+audio and a combination of both and now even starting on video
+Daisy allows a reader to directly navigate to parts of a book such as
+headings, paragraphs, chapters etc.
+EPUB15 is the file extension of an XML format for reflowable digital
+books and publications, produced by the IDPF (International Digital
+Publishing Forum). EPUB allows publishers to produce and send
+a single digital publication file through distribution and offers
+consumers interoperability between software and hardware for
+unencrypted reflowable digital books and other publications. EPUB 3
+incorporates DAISY accessibility features16 and should be promoted
+to the greatest possible extent by State parties to the CRPD to
+facilitate access to e-books by persons with disabilities.
+The portable document format (PDF) can be made accessible
+using Adobe Acrobat 9 pro or by saving as fully accessible
+documents. The PDF/UA (PDF/Universal Accessibility) is the informal
+name for ISO 14289, the International Standard for accessible PDF
+technology.
+
+	
+	
+13
+	
+14
+	
+15
+	
+16
+	
+11
+12
+
+10
+
+www.w3.org/WAI/
+http://www.w3.org/TR/WCAG20/
+http://webaim.org/articles/pour/
+http://www.daisy.org
+http://en.wikipedia.org/wiki/EPUB
+http://www.daisy.org/daisypedia/epub-daisy-standards-under-revision
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Emergency Response and Disaster Preparedness
+Persons with disabilities are one of the most disadvantaged communities during times
+of emergency, since the communications divide, coupled with inaccessible response
+systems, facilities and services makes it impossible for them to be included in any
+emergency or disaster service. Apart from ensuring the physical accessibility of shelters,
+services and transportation, for which there exist guidelines and best practices, ICTs play a
+critical role in this domain.
+A whole range of ICTs exist to carry out emergency communication, such as television
+and radio, fixed and mobile telephony, text messaging and SMS, and internet-based
+resources and services such as websites, video, instant messaging over the Internet,
+Voice over Internet Protocol services, web conferencing, social media which allow for
+instant communications, instant photo and video capture and sharing, and satellite
+communications. The biggest benefit to using ICTs for disaster preparedness and
+planning is hence the ability to create and deliver content in multiple formats through
+multiple media.
+Ensuring that all emergency communications are accessible is a critical obligation of
+Member States of the CRPD. In Japan, statistics show that the death toll among persons
+with disabilities during the most recent tsunami was more than twice the death toll of the
+general population, often due to lack of awareness of the impending disaster.
+
+2.D	 Policy Tools to Promote Inclusive ICT for Persons
+with Disabilities
+One common misbelief encountered in many countries, which hinders the progress
+of ICT accessibility, is the idea that implementing accessibility is the exclusive task of
+the Ministry in charge of the disabled and social welfare since it relates to persons
+with disabilities. However, given the fact that ICT usage cuts across and commonly
+binds together implementation strategies for all spheres of activity - be it education,
+employment, health, social welfare, transportation or finance - the implementation
+of accessibility will naturally fall independently within the purview of each separate
+Ministry. To have a comprehensive solution to accessibility needs in a country, the
+government must consider both including it within the overarching national framework
+for information and technology, identifying it as a strategy in all relevant policies and
+legislation such as education, as well as creating the necessary exclusive policies to
+address accessibility issues in greater detail, such as having a national policy on electronic
+accessibility.
+Country Checkpoint
+1.	 Is ICT mentioned in your country’s main Policy Act that addresses disability?
+2.	 Does the main Policy Act on information and communication technology address issues
+of disability or are the words ‘accessibility’ or ‘universal design’ mentioned?
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+11
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Some important measures to promote ICT accessibility are described below:
+
+Public Procurement
+Public procurement can be used as an important tool for implementing accessibility within
+the national ICT ecosystem. It can be justly argued that what is procured from public funds,
+or is used by or for the public in any way, must necessarily be usable and accessible to every
+member of the public. Requiring specific accessible ICT technical design standards helps
+ICT vendors focus on accessibility as part of mainstream design requirements. It can also
+help foster innovation through competition, consequently lowering costs and building local
+capacity to produce accessible goods and services. There are many different types of public
+procurements, varying from a single item purchase such as a computer or landline phone
+to a service contract such as designing a website and different approaches (for instance
+accessibility statements/mandatory training including accessibility as part of contract terms
+etc.), which are suitable for different types of procurement. Several countries such as the
+United States, Denmark, Ireland, and Canada have brought out ICT procurement toolkits.
+
+Licensing
+Including accessibility as a precondition of a licence can be an effective way of ensuring
+accessibility of a product or service. For instance, in Sri Lanka telecom service providers
+are required to provide accessibility to emergency services to persons with disabilities
+under their service licence. Ofcom in the United Kingdom applies the same principle for
+the licensing of operators. This is usually implemented, in the case of telecommunications
+services, by the telecommunications regulator. Similarly, in all other government contracts
+or licences, governments may include accessibility as necessary criteria, especially in the
+issue of wireless and broadcast licences. Breech of licence terms can result in termination
+of contract or imposition of penalty with a time frame to ensure compliance.
+
+Incentives
+There are a variety of ways through which governments can implement ICT accessibility
+amongst their ministries and departments, as well as industry actors. These could be in
+the form of mandatory policies, negative measures such as imposing a penalty for nonadherence, or positive measures such as offering incentives such as tax breaks, preferred
+choice in tenders, instituting awards etc. In general, the preferred approach could be to
+incentivize voluntary adherence. Some of the ways in which innovation and investments
+by organizations in ICT accessibility can be supported by the government include:
+
+►► Matching funds. Governments can offer to match funds to purchase certain
+
+assistive technologies. For instance, in the U.S, the federal government matches
+funds for the state governments to provide assistive technologies (ATs) for
+persons with disabilities. Another example could be to match funds for academic
+institutions purchasing these technologies.
+
+►► Centralized budgets in governments or other organizations to pay for
+
+accommodation so that individual agencies or departments are not concerned
+about cost of ATs when hiring persons with disabilities (currently implemented at
+IBM and Microsoft internally).
+
+►► Tax breaks for investments in ATs.
+
+12
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+►► Consolidating government needs so that software companies have an incentive
+to invest in localizing AT.
+
+►► Direct subsidy of end-users for their purchase of ATs Incentives (ADIP scheme by
+
+the Indian Government subsidizes purchase of ATs for all persons with disabilities
+up to INR 6000).
+
+►► Institute awards for employers of persons with disabilities or in different domains
+of accessibility such as the most accessible website servicing persons with
+disabilities.
+
+Welfare and Health Insurance Programs
+In several countries, national and State-level programmes fund the medical and
+rehabilitation needs of persons with disabilities. For instance, Medicare17 is a national
+social insurance programme administered by the U.S. federal government for adults over
+65 years of age and younger people with disabilities which provides coverage for some
+kinds of ATs. However insurance companies do not often mention coverage of ATs except
+in some cases when they are medically required.
+In countries where such public health insurance programmes are limited, there is often
+little or negligible budget for providing social security or purchasing rehabilitative devices,
+or they may be restricted to prosthetic limbs or crutches but may not extend to ICT-based
+devices. The situation with insurance companies is also dismal, with very few or almost no
+companies funding purchase of ATs and even requiring persons with disabilities to pay a
+higher premium even if they wanted to insure their own person. There is a dire need and
+potential for government to play a role in ensuring that there is provision to support every
+person with a disability by equipping them with the necessary AT and training in its use.
+
+Education, Training and Awareness-Raising
+In addition to different measures, there also needs to be a multi-pronged approach in
+terms of strategies. Government authorities must spend time, effort and money variously
+on raising awareness among their own employees and the public of the need to create an
+inclusive and barrier-free society; sensitise their staff to respond to the needs of persons
+with disabilities; carry out capacity-building activities such as accessibility training to
+facilitate implementation of accessibility; include accessibility in the curriculum of training
+institutions to make way for long term integration; audit existing and new programmes
+for accessibility and regularly monitor its implementation; support DPOs and NGOs
+in aiding persons with disabilities; engage in research and development of low-cost
+indigenous supportive solutions in local languages to cater to local needs; and build up
+the capacity of trainers and resource centres to train people in using these technologies.
+This life cycle of accessibility implementation and integration needs to be followed
+through in each domain of activity. For instance, if one is talking of implementing
+web accessibility across all government websites, the various steps which need to be
+undertaken are as follows:
+
+►► Carry out an audit of all government websites to check for accessibility.
+►► Draw up a road map for making these websites accessible which clearly outlines
+various levels of accessibility to be achieved over various phases.
+
+►► Clearly identify the national standard for web accessibility.
+	 http://www.medicare.gov/
+
+17
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+13
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+►► Articulate the need to adhere to the identified national standard or code for
+accessibility through a policy document.
+
+►► Identify a body to oversee the implementation these steps.
+►► Train web developers of government websites in web accessibility and follow up
+
+with a second training course after a couple of months within which time the
+web developers should have made changes to their websites to make them more
+accessible.
+
+►► Monitor web accessibility on a regular basis.
+
+Funding Mechanisms including Universal Service Funds (USFs)
+Common funding mechanisms for accessible and supportive ICTs include the following:
+
+►► The ministry or department responsible for the implementation of the national
+disability policy should itself have a budget from which it can disburse funds
+to persons with disabilities or their organizations for various activities such
+as purchase of assistive technologies, education programmes, rehabilitation,
+accessible content creation, training or research.
+
+►► Budget for each ministry or department to carry out accessibility initiatives such
+
+as making their websites accessible including training their web developers and
+conducting an accessibility project connected with the responsibility of that
+ministry or department (such as converting text books into accessible formats
+under the Ministry for Education).
+
+►► A dedicated national fund in support of workplace accommodation financed
+
+by taxes paid by employers who do not meet minimum employment quotas of
+persons with disabilities. France for instance has a 6% minimum quota and its
+national disability fund has grown substantially over the years.
+
+►► National lottery. Spain has a national lottery, the profits of which go to the
+
+ONCE Foundation which funds organizations of persons with disabilities and
+accessibility programmes.
+
+►► Universal service funds for telecommunications exist in almost every country
+
+to fulfil universal service obligations.18 For many years USFs have focused on
+promoting connectivity to rural and unconnected populations. These funds are
+usually very large. Over the past few years an increasing number of countries have
+expanded their definition of Universal Service to explicitly cover accessibility for
+persons with disabilities to the information society through telecommunications
+and broadband. There are several countries which have made strides in this area
+and have either incorporated this in the policy mandate itself, or have made use
+of the fund by just directly funding projects. Some of the ways in which they
+are being used in different countries include purchasing assistive technologies,
+connecting schools, setting up resource centres in educational institutions,
+subsidising the cost of broadband and fixed telephony for families with persons
+with disabilities, providing library services to the blind, and a number of other
+projects.
+
+18	 A definition of universal service is given in a paper brought out by the ITU in 1998 which states “universal service
+is the long-term objective of making communication facilities available to every member of society on an
+individual or household basis, and it is used in particular in the regulatory legislative framework to indicate the
+obligation of telecommunication operators to provide their services to the entire population.” Elements and
+principles of the Information Society, www.itu.int/osg/wsis-themese/access/.../IS%20Principles.doc
+
+14
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+►► Other sources of funding include independent donor agencies which are among
+the leading supporters of accessibility/disability-related initiatives. The United
+Nations Voluntary Fund on Disability supports the activities of disabled persons’
+organizations in developing countries.19 Bilateral aid agencies such as USAID
+which have funds earmarked for programmes in support of disability can cover
+accessibility projects.
+
+►► Corporate social responsibility initiatives are also a good source for funding ICT
+
+accessibility. CSR programmes also help in raising awareness and capacity in the
+private sector on the opportunity to incorporate accessibility within their own
+organizations and workplaces.
+
+While many creative opportunities to fund accessibility exist, resource mobilization,
+when not directly related to programmes, can backfire. Indeed, it is not uncommon for a
+percentage of national funds which are earmarked for disability by a ministry, department
+or national dedicated fund to go unutilized for many years. It is therefore essential to
+ensure that resource mobilization be designed with specific objectives and resource
+allocation processes.
+
+2.E	 Promoting ICT Accessibility with DPOs
+In developing countries the reality is quite often that more of the work of promoting the
+independent living needs of persons with disabilities and finding practical solutions to
+cater to their requirements within a limited resource environment is done by Disabled
+Persons Organizations (DPOs). Hence government agencies should seriously consider
+supporting and promoting the work of DPOs and NGOs as a primary strategy for
+addressing accessibility. This will help achieve immediate results since there is already a
+direct connection with the beneficiaries and a minimum resource infrastructure in place
+with knowledge and trained manpower to cater to relevant needs. For instance, allocating
+a portion of the national budget to enable blindness organizations to undertake
+conversion of books into accessible formats would go a long way towards ensuring
+that books become available to persons with print disabilities in a timely manner and in
+relevant formats. DPOs are often able to find innovative and frugal solutions to addressing
+specific challenges, such as providing portable screen readers or other supportive
+software which can be carried around and used on multiple computers by persons
+with disabilities who are otherwise forced to use cyber-cafes or service centres. Mobile
+phones have proved to be the ultimate technology to connect the disabled since they
+have features and services which cater for persons with any disability and can be used to
+read, write, connect to the Internet, talk and navigate independently. The only challenge
+remains to ensure that text-to-speech technology and content has to be created in
+local languages and this is something which has to be done by each country in its own
+in partnership with DPOs and the private sector. Only investment in local technologies
+can reduce costs and create indigenous capacity to serve long-term needs. Also, once
+certain basic infrastructure such as local language voices is in place, it will address needs
+across a wide range of technologies and uses and will not have to be redone. Developing
+countries should consider piggy-backing on existing international open-source
+technologies such as Non Visual Desktop Access (NVDA) screen readers and e-speak
+text-to-speech software for customisation and deployment. Also, negotiating with service
+	 General information on the fund can be found at: http://www.un.org/disabilities/default.asp?navid=8&pid=29
+
+19
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+15
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+providers to lower costs of technology in return for a larger sale volume has successfully
+brought down the cost of technology in many countries.
+Hence there are many ways in which governments need to intervene and work to
+implement ICT accessibility, both through policy and government processes, as well
+as through other channels. However, the most important lesson from observing global
+practices and trends is that all successful initiatives have been through a partnership
+between Government, DPOs and the private sector to create a truly inclusive world.
+
+16
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+3.	 SUMMARY & KEY LEARNING POINTS
+The present Module highlights the important opportunities offered by ICTs to foster the
+social inclusion of persons with disabilities in all aspects of society and development.
+It details the relevant provisions of the CRPD, which require States Parties to promote
+ICT usage for persons with disabilities, ICT accessibility and the adoption of assistive
+technologies.
+The Module reviews the barriers that can prevent persons with disabilities from accessing
+and using ICTs, and offers guidance on how to design policies and measures to make ICTs
+inclusive for persons with disabilities, including concrete examples and tools for successful
+implementation.
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+17
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+4.	 USEFUL RESOURCES
+		 United Nations Convention on the Rights of Persons with Disabilities, available at:
+http://www.un.org/disabilities/default.asp?navid=12&pid=150
+		 Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind,
+Visually Impaired or Otherwise Print Disabled available at:
+http://www.wipo.int/treaties/en/ip/marrakesh/
+		 Secretariat for the Convention on Rights of Persons with Disabilities at:
+www.un.org/esa/socdev/enable
+		 Universal Service for Persons with Disabilities: A Global Survey of Policy Interventions
+and Good Practices, by G3ict-CIS, available at: http://g3ict.org/resource_center/
+publications_and_reports/p/productCategory_whitepapers/subCat_0/id_193
+Accessibility resources
+		 e-Accessibility Toolkit for policy makers, by ITU-G3ict, available at:
+www.e-accessibilitytoolkit.org
+		 Making Mobile Phones and Services Accessible for Persons with Disabilities, report by
+ITU-G3ict, available at:
+http://www.itu.int/ITU-D/sis/PwDs/Documents/Mobile_Report.pdf
+		 Making Television Accessible Report, by ITU- G3ict, available at:
+http://www.itu.int/ITU-D/sis/PwDs/Documents/ITU-G3ict%20Making_TV_
+Accessible_Report_November_2011.pdf
+		 UN Enable- Frequently Asked Questions available at:
+http://www.un.org/disabilities/default.asp?navid=23&pid=151#sqc10
+		 UNESCO global report: opening new avenues for empowerment: ICTs to access
+information and knowledge for persons with disabilities, available at:
+http://www.unesco.org/new/en/communication-and-information/resources/
+publications-and-communication-materials/publications/full-list/unesco-globalreport-opening-new-avenues-for-empowerment-icts-to-access-information-andknowledge-for-persons-with-disabilities/
+		 UNESCO ItrainOnline website provides accessible web design training and tools at:
+http://www.itrainonline.org/itrainonline/english/usability.shtml#Web%20Site%20
+Usability%20and%20Accessibility%20-%20Accessibility
+		 Ireland’s ICT procurement toolkit, available at:
+http://www.universaldesign.ie/useandapply/ict/itprocurementtoolkit
+		 EU, 112-the Single European Emergency Number, General Fact Sheet 44 available at:
+http://ec.europa.eu/information_society/doc/factsheets/044-112-blue-en.pdf
+
+18
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Standards and Guidelines
+		 W3C Web Accessibility Initiative available at http://www.w3.org/WAI/
+		 Webaim, web accessibility initiative, available at: http://www.webaim.org
+		 Website of the DAISY Consortium available at: http://www.daisy.org/about-us
+		 Daisy and Emergency preparedness, available at: http://www.daisy.org/daisypedia/
+daisy-and-emergency-preparedness
+		 Section 508: “Electronic and Information Technology Accessibility Standards”, available
+at: http://www.access-board.gov/sec508/standards.htm
+Accessibility Projects
+		 Daisy Lanka Foundation: Talking Textbooks for Blind Students:
+http://www.daisy.org/member/226/DAISY%20Lanka%20Foundation
+		 R-Cast: In-Class Use of Mobile Phones for Children with Disabilities in Japan:
+http://edict2010.in/files/2010/09/mobile-phone-and-sped-2010-web-version.pdf
+		 Jamaica Universal Access fund donates equipment to the deaf:
+http://jis.gov.jm/universal-access-fund-donates-ict-equipment-to-the-deaf/
+		 Universal Access fund in Pakistan launches project for enabling persons with
+disabilities: http://www.usf.org.pk/newsdescription.aspx?44
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+19
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+4.B.	 Appendix A:
+Specific Applications and Services for Various Types
+of Disabilities and Situations
+Vision: Accessibility features such as font and high contrast colour options and screen
+readers came with operating systems such as Windows, Linux and Apple iOS. There
+are also several third-party software options, both proprietary and open-source, such
+as screen readers like Jaws, NVDA or Windows Eyes for personal computers, Talks and
+mobile speak for mobile phones, Zoom text (magnifier), and the e-Speak text-to-speech
+synthesizer. An example of an innovative App is the LookTel Money Reader which
+recognizes currency and speaks aloud the denomination enabling persons with visual
+impairment to check the value of bank notes and use money quickly. Borrowing and
+reading digital books on computers, mobile phones and e-book readers such as Daisy
+readers and the Kindle are very popular with persons with vision impairment. There are
+digital libraries such as the Open Library20 or Bookshare.org which have books in Daisy
+format for persons with print disabilities.
+Physical and motor difficulties: There exist both hardware solutions such as mouth
+sticks21, head wands22 and sip-and-puff switches23, as well as software to adjust the way
+that the keyboard or mouse alternative responds to input.24 Open source solutions such
+as Dasher and FXC software allow users to customize their operating system and use
+solutions such as touchscreens, switches, voice recognition and on-screen keyboards,
+among others.25 There are also several Apps which support the specific needs of persons
+with physical disabilities; for instance Wheelcrowd is an application which helps in
+searching for wheelchair-accessible places such as restaurants and other facilities around
+a neighbourhood. Wheelmate26 is a free App which provides wheelchair users with an
+overview of the closest wheelchair-friendly toilets and parking places. While those have
+emerged in countries where smart phones were available, the fast expansion of the
+African mobile market and expected continued decrease of the cost of handsets suggests
+that similar services are likely to appear.
+Hearing or speech impairment: There are several hardware and software technology
+options such as hearing aid couplers, text teletypewriter, voice recognition, sign language,
+captioning and relay service which are extremely helpful for users with hearing loss. The
+mobile phone also provides the possibility of facilities such as text and multimedia and
+video sign language messaging, and Apps such as Trippo Voice Magix27 which translates
+keyed-in messages into 30 languages and displays the translated text or speaks out the
+translated sentence. This can also be directly emailed or posted online as required and is
+optimized for both the iPhone and Android. MobileSign28 is a British sign language lexicon
+that provides information on more than 4,000 signs and is available on both Google Play
+and Apple Store.
+	
+
+http://openlibrary.org
+	 A hard stick held in the mouth by the user and used to type on the keyboard.
+22
+	 A stick that is strapped to the head of the user who moves his head to operate the keyboard.
+23
+	 This device uses the breath of the user as on and off signals and uses the information to control various actions
+from operating a wheelchair to navigating a computer.
+24
+	 http://www.e-accessibilitytoolkit.org/toolkit/promoting_assistive_technologies/solutions
+25
+	 http://abilitynet.wetpaint.com/
+26
+	 Available at: http://lifecenter.ric.org/index.php?tray=content&tid=top2&cid=6769
+27
+	 Available at: http://www.christopherreeve.org/site/c.mtKZKgMWKwG/b.6133757/k.38B9/2010Travel.htm
+28
+	 Read more at http://www.mobilesign.org/
+1
+
+21
+
+20
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Reading and Communication: Standalone devices are available for people with reading
+and communication difficulties for e.g. Voice Output Communication Aids (VOCA) (for
+speech difficulties), eBook readers (for reading difficulties) and spelling aids for people
+with reading difficulties such as dyslexia. Tools such as RapidSet and Washer enable users
+to change the text styles to make reading easier. Certain other software packages such
+as VuBar, RedPlease, and Bookreader add extra tools to the system to support reading.
+In addition there are many commercial and proprietary technologies that enhance the
+computer with special features. Examples of such hardware tools include Daisy readers
+and Kurzweil machines and examples of software tools are Dragon Naturally Speaking
+and TexthelpRead. A Special Phone1 is an App which makes it easy for persons with
+disabilities to make emergency calls. The person just needs to key in the number on the
+magnified keypad in the App and shake the phone to make the call. For speed dialling,
+users can store up to six emergency numbers that can be called by shaking – once
+for contact one, twice for contact two and so on. The app can also recognize voice
+commands in different languages and dialects even in surroundings where there is a lot
+of background noise.
+Examples of ICT Applications and Services for Persons with Disabilities
+(including demos)
+Visit and discussion of Bookshare.org (www.bookshare.org)
+Demo of money reader on iPhone or Android [for example,
+http://www.looktel.com/moneyreader]
+Demo of information service for persons with physical disabilities.
+Visiting participants’ websites with a screen reader or using accessibility checkers to check
+participants websites.
+
+	
+
+1
+
+http://www.christopherreeve.org/site/c.mtKZKgMWKwG/b.6133647/k.284D
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+21
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+5.	 LEARNING ACTIVITIES
+Session Sheet for the Trainer – ICT and Disability, Session 1
+Technical Content 2.A.: Background
+	
+
+Learning Activity 2.A.: The Importance of ICTs
+
+Technical Content 2.B.: Legal Framework
+	
+
+Learning Activity 2.B.: Member States’ Obligations on the Provision of ICT
+
+	
+
+Handout: CRPD Article 2 - Definitions
+
+	
+
+Handout: CRPD Article 9 – Accessibility
+
+	
+
+Handout: CRPD Article 21 – Freedom of Expression and Opinion, and Access to
+Information
+
+Session Sheet for the Trainer – ICT and Disability, Session 2
+Technical Content 2.C: Making ICT Inclusive for Persons with Disabilities
+
+22
+
+	
+
+Learning Activity 2.C.: Fostering Social Inclusion
+
+	
+
+Video: The World Bank, ICT Facilitates Social Inclusion:
+https://www.youtube.com/watch?v=Z0weChJT6uo
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Session Sheet for the Trainer – ICT and Disability, Session 1
+Key Messages See the summary and key learning points.
+
+Objectives
+
+By the end of this session, participants will have:
+- reflected on what information and communication
+technologies (ICTs) are, and how they contribute to the
+inclusion of persons with disabilities;
+- considered Member States’ responsibilities for the provision
+of ICT for persons with disabilities.
+
+Room
+Set up for plenary discussion and cabaret style for small group
+Arrangement work.
+
+Activity
+
+10 mins – Presentation: What do we mean by ICTs?
+30 mins – Group work & plenary discussion LA 2.A.
+20 mins – Presentation: Introduction to Articles 9 and 2
+20 mins – Group work around LA 2.B.
+10 mins – Summary and wrap-up
+
+Duration
+
+90 minutes
+
+Notes for
+a Training
+Team
+
+This session is organized around two Learning Activities as
+outlined in the activity.
+For LA 2A – divide the participants into groups, and have them
+focus on one of the three issues on the task sheet. During
+feedback and discussion, be sure to fill in any learning gaps.
+For La 2B – you can use the handouts (Articles 2 and 9)
+as support for your input. You can also use Article 21 for
+additional support.
+
+Task Sheets
+
+Learning Activity 2.A.: The Importance of ICTs
+Learning Activity 2.B.: Member States’ Obligations on the
+Provision of ICT
+
+Handouts
+
+Handout: CRPD Article 2 - Definitions
+Handout: CRPD Article 9 – Accessibility
+Handout: CRPD Article 21 – Freedom of Expression and
+Opinion, and Access to Information
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+23
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Learning Activity 2.A: The Importance of ICTs
+Objective: To reflect on what information and communication technologies (ICTs)
+are, and how they contribute to the inclusion of persons with disabilities.
+ICTs have crucial importance for the inclusion of persons with disabilities and for addressing the barriers that may limit their participation in society.
+Task
+In your group, you will focus on ONE of the following issues:
+1.	 Discuss and record 3 important examples of ICT usage that are most important
+for persons with disabilities in the context of your country in both urban and rural
+environments.
+2.	 Give 3 examples of possible exclusion from essential services if ICTs are not made
+accessible.
+3.	 Give three examples of ICT innovations providing new enabling solutions to
+persons with disabilities for work, education or leisure.
+Discuss the issue and prepare a flipchart presentation of your three examples.
+
+You have 15 minutes to work together in your groups. Your presentation to plenary
+should last no longer than 5 minutes.
+
+24
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Learning Activity 2.B: Member States’ Obligations on the Provision of ICT
+Objective: To consider Member States’ responsibilities for the provision of ICT for
+persons with disabilities.
+In your group look at the table and provide examples from your own experiences. Notice
+where there are gaps and speculate if the gaps relate to your lack of knowledge or the
+government’s inactivity on the provision.
+Task
+Provision
+
+Examples
+
+Ensure that persons with disabilities have
+equal access to the physical environment,
+transportation, information and
+communications, including information and
+communications technologies and systems
+(Article 9)
+Promote the research, development and
+availability of new technologies suitable for
+persons with disabilities, at affordable cost
+that will facilitate living and inclusion within
+the community; this includes ICTs, mobility
+aids, devices and assistive technologies.
+(Article 4 (G)
+Provide all information and communication
+in accessible formats, including cultural
+materials and television (Article 30)
+Promote accessibility of education which
+include modes of communications, assistive
+technology etc. (Article 24)
+Ensure the right to work and employment on
+an equal basis with others, providing a just
+favourable and equitable work environment
+(Article 27)
+Make international cooperation accessible
+to persons with disabilities and promote
+the sharing of accessible and assistive
+technologies. (Article 32)
+
+You have 20 minutes to complete this activity. There will not be a formal feedback of each
+discussion, but be ready to share your thoughts in the discussion.
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+25
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Handout: CRPD Article 2: Definitions
+For the purposes of the present Convention:
+"Communication" includes languages, display of text, Braille, tactile communication,
+large print, and accessible multimedia along with written, audio, plain-language, humanreader and augmentative and alternative modes, means and formats of communication,
+including accessible information and communications technology.
+"Language" includes spoken and signed languages and other forms of non-spoken
+languages.
+"Discrimination on grounds of disability" means any distinction, exclusion or
+restriction on the basis of disability which has the purpose or effect of impairing or
+nullifying the recognition, enjoyment or exercise, on an equal basis with others, of all
+human rights and fundamental freedoms in the political, economic, social, cultural, civil
+or any other field. It includes all forms of discrimination, including denial of reasonable
+accommodation.
+"Reasonable accommodation" means necessary and appropriate modification and
+adjustments not imposing a disproportionate or undue burden, where needed in a
+particular case, to ensure for persons with disabilities the enjoyment or exercise on an
+equal basis with others of all human rights and fundamental freedoms.
+"Universal design" means the design of products, environments, programmes and
+services to be usable by all people, to the greatest extent possible, without the need for
+adaptation or specialized design. "Universal design" shall not exclude supportive devices
+for particular groups of persons with disabilities where this is needed.
+
+26
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Handout: CRPD Article 9: Accessibility
+1.	 To enable persons with disabilities to live independently and participate fully
+in all aspects of life, State parties shall take appropriate measures to ensure for
+persons with disabilities access, on an equal basis with others, to the physical
+environment, to transportation, to information and communications, including
+information and communications technologies and systems, and to other
+facilities and services open or provided to the public, in both urban and rural
+areas. These measures, which shall include identification and elimination of
+obstacles and barriers to accessibility, shall apply to, inter alia:
+(a)	 Buildings, roads, transportation and other indoor and outdoor facilities,
+including schools, housing, medical facilities and workplaces.
+(b)	 Information, communications and other services, including electronic
+services and emergency services.
+2. State parties shall also take appropriate measures to:
+(a)	 develop, promulgate and monitor the implementation of minimum
+standards and guidelines for the accessibility of facilities and services open
+or provided to the public;
+(b)	 ensure that private entities that offer facilities and services which are open
+or provided to the public take into account all aspects of accessibility for
+persons with disabilities;
+(c)	 provide training for stakeholders on accessibility issues facing persons with
+disabilities;
+(d)	 provide in buildings and other facilities open to the public signage in braille
+and in easy to read and understand forms;
+(e)	 provide forms of live assistance and intermediaries, including guides, readers
+and professional sign language interpreters, to facilitate accessibility to
+buildings and other facilities open to the public;
+(f )	 promote other appropriate forms of assistance and support to persons with
+disabilities to ensure their access to information;
+(g)	 promote access for persons with disabilities to new information and
+communications technologies and systems, including the internet;
+(h)	 promote the design, development, production and distribution of accessible
+information and communications technologies and systems at an early
+stage, so that these technologies and systems become accessible at
+minimum cost.
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+27
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Handout: CRPD Article 21: Freedom of Expression and Opinion, and Access to
+Information
+State parties shall take all appropriate measures to ensure that persons with disabilities
+can exercise the right to freedom of expression and opinion, including the freedom
+to seek, receive and impart information and ideas on an equal basis with others and
+through all forms of communication of their choice, as defined in Article 2 of the present
+Convention, including by:
+(a)	 Providing information intended for the general public to persons with disabilities
+in accessible formats and technologies appropriate to different kinds of
+disabilities in a timely manner and without additional cost.
+(b)	 Accepting and facilitating the use in official interactions of sign languages, Braille,
+augmentative and alternative communication, and all other accessible means,
+modes and formats of communication of their choice by persons with disabilities.
+(c)	 Urging private entities that provide services to the general public, including
+through the Internet, to provide information and services in accessible and
+usable formats for persons with disabilities.
+(d)	 Encouraging the mass media, including providers of information through the
+Internet, to make their services accessible to persons with disabilities.
+(e)	 Recognizing and promoting the use of sign languages.
+
+28
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Session Sheet for the Trainer – ICT and Disability, Session 2
+Key Messages See the summary and key learning points.
+
+Objectives
+
+By the end of this session, participants will have:
+- described how ICTs can foster the social inclusion of persons
+with disabilities in all aspects of life;
+- identified approaches to making ICT inclusive for persons
+with disabilities.
+
+Room
+Video set-up including speakers, projector, computer.
+Arrangement Tables for small group work with 4-6 people.
+Activity
+
+5 mins – View short video in plenary, with reflections and
+discussion.
+35 mins – Group work around LA 2.C. – Fostering Social
+Inclusion
+45 mins – Feedback and summary.
+
+Duration
+
+90 minutes
+
+Notes for
+a Training
+Team
+
+Use the YouTube video
+(https://www.youtube.com/watch?v=Z0weChJT6uo) to
+introduce ICT and social inclusion. Conclude with some slides
+to identify where to get more examples and technical inputs
+(see references). If participants have internet access and
+computers, suggest they use the following link to support
+their research: www.e-accessibilitytoolkit.org
+
+Task Sheets
+
+Learning Activity 2.C.: Fostering Social Inclusion
+
+Handouts
+
+N/A
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+29
+
+TOOLKIT ON DISABILITY FOR AFRICA
+
+Learning Activity 2.C.: Fostering Social Inclusion
+Objective: To describe how ICTs can foster the social inclusion of persons with disabilities in all aspects of life and to identify approaches for making ICT inclusive for
+persons with disabilities.
+Step One
+Choose 3 items from the list:
+►► Healthcare
+►► Primary education
+►► Secondary education
+►► Tertiary, professional and lifelong education
+►► Employment
+►► Independent living
+►► Government services
+►► Participation: political & public life
+In your group, discuss and describe how ICTs can both:
+1.	 Improve ACCESS to services and opportunities, and
+2.	 ASSIST in independent living.
+Step Two
+Staying in your group, identify what would need to happen to ensure that ICTs are utilised
+to both facilitate access and assist in independent living. Draw from real examples provided by your group members. (It might help to think about the role of government,
+disabled people’s organizations, civil society and the private sector).
+
+You have 20 minutes to complete Part 1 and a further 15 minutes to complete Part 2. Be
+ready to present a summary of your discussions. Your presentation should last no longer
+than 5 minutes.
+
+30
+
+Module 12 - INFORMATION AND COMMUNICATION TECHNOLOGY (ICT) AND DISABILITY
+
+

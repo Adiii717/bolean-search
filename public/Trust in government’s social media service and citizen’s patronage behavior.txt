@@ -1,0 +1,1352 @@
+Telematics and Informatics 32 (2015) 629–641
+
+Contents lists available at ScienceDirect
+
+Telematics and Informatics
+journal homepage: www.elsevier.com/locate/tele
+
+Trust in government’s social media service and citizen’s
+patronage behavior
+Min Jae Park ⇑, Hyeri Choi, Suk Kyoung Kim, Jae Jeung Rho
+Department of Business and Technology Management, Korea Advanced Institute of Science and Technology (KAIST), 291 Daehak-ro (373-1
+Guseong-dong), Yuseong-gu, Daejeon, Republic of Korea
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 13 August 2014
+Accepted 26 February 2015
+Available online 6 March 2015
+Keywords:
+Social media
+Trust in government
+Facebook
+Government
+
+a b s t r a c t
+As governments across the world have decreased in perceived reliability and trust, they
+now need more stable and continuous tools to communicate with their citizens. In this
+context, many government agencies are attempting to use social media tools to communicate with the public and promote citizen’s trust. But, few studies have investigated the
+critical factors and antecedents of trust in government under social media context. Thus,
+this study empirically analyzes the antecedents and formation of citizen trust and expansion in actual citizen patronage behavior deploying structural equation model. The survey
+data was obtained from Korean population who used government’s social media service.
+The results indicate that the formation of citizen trust in the government can be expanded
+into patronage intention toward social media and actual behavior. This study also demonstrates that factors related institutional-based trust, characteristic-based trust, and process
+based trust contribute to improving trust through government social media services. This
+study provides contribution as research that discovers the antecedents of trust in government social media use and it employs integrated perspective for the structural components
+of trust simultaneously.
+Ó 2015 Elsevier Ltd. All rights reserved.
+
+1. Introduction
+Social media is increasingly being regarded as an effective tool to activate citizen participation in policy making processes
+because social media’s properties that enable information sharing and non-discriminative participation facilitate communication and online relationships between government agencies and citizens (Aharony, 2012; Khan et al., 2012). It is also
+expected that social media can be a media to increase the possibility of direct democracy under contemporary representative
+political systems (Bonson et al., 2012). This argument is formed and developed with the citizen’s trust that social media have
+fundamental properties of openness, speed, and bilateralism (Shi, 2013), which can enable a ‘cyber space’ that is equal for all.
+Meanwhile, as governments across the world have decreased in perceived reliability and trust since the 1960s (Morgeson
+et al., 2011; Welch et al., 2005), they now need more stable and continuous tools to communicate with their citizens. In this
+context, many government agencies are attempting to use social media tools to communicate with the public. However, in
+spite of diversity beneﬁts, a lack of understanding and readiness in government to completely introduce and embrace social
+media harms them (e.g. cyber-cascade, cyber-balkanization, etc), and thus the government overall, rather than restoring citizen’s trust toward government. Accordingly, governments should not only consider the beneﬁts of social media as tools to
+⇑ Corresponding author. Tel.: +82 42 350 6391.
+E-mail address: minj.park@kaist.ac.kr (M.J. Park).
+http://dx.doi.org/10.1016/j.tele.2015.02.006
+0736-5853/Ó 2015 Elsevier Ltd. All rights reserved.
+
+630
+
+M.J. Park et al. / Telematics and Informatics 32 (2015) 629–641
+
+promote citizen’s trust toward government but also understand the mechanism and antecedents of trust in government’s
+social media. Studies that have demonstrated the role of social media for the purpose of securing government trust conﬁrmed that citizen trust toward the government can increase if the government understands the characteristics of social
+media and utilizes them appropriately (Kim et al., 2013). Citizen trust toward government agencies can be simultaneously
+a factor facilitating citizen participation in the social media provided by the government agency and an outcome resulting
+from the social media (Hong, 2013). In marketing, previous studies have found positive effects of trust on the likelihood of
+continuing a relationship and consumer intent to make a purchase (Doney and Cannon, 1997). Understanding whether and
+how trust in online websites affects user intentions to continue their membership and to recommend these sites to others is
+important for marketing researchers and practitioners (Nielsen, 2009). Given the previous ﬁndings of the positive role of
+brand trust in brand relationship continuation and the increased importance of trust in the social media context, we need
+to investigate that trust towards a government’s social media is an important determinant of citizen patronage (continuance
+and recommendation) intentions toward social media.
+Thus, this study empirically analyzed the antecedents and formation of citizen trust and expansion in actual citizen
+patronage behavior based on Zucker (1986)’s trust theory. This study provides contribution as research that discovers the
+antecedents of trust in government social media use and it employs Zucker’s integrated perspective for the structural components of trust simultaneously (Institutional-based, process-based, and characteristic-based). In Section 2, previous relevant studies on the antecedents of trust in government and social media use in government are presented, and Section 3
+introduces the research model and related hypotheses. The proposed model and hypotheses are veriﬁed through a survey
+in Section 4. The implications and considerations of the survey results on the policies of government-to-citizen (G2C) social
+media communication adopted by the Korean government are described in Section 5. Finally, the results of this study are
+summarized in Section 6 and the limitation and future research directions are presented in Section 7.
+2. Literature review
+2.1. Social media use in government
+The use of social media by a government can be justiﬁed by their collaborative and participative nature (Bertot et al.,
+2010), and this use may have various forms (Khan et al., 2012; Kim et al., 2013). Previous studies have suggested that
+due to their collaborative and participatory nature, social media can be instrumental in promoting open governance through
+providing citizens with a voice (Bertot et al., 2010). The public sector has increasingly used social media for various purposes
+such as facilitating G2C relationships and interactions, exploiting various social media tools for government information and
+services, and providing new channels for political participation and deliberation (Kim and Park, 2012; SteenKamp and Hydeclarke, 2014).
+According to Mergel (2010), governments generally have a threefold social media strategy: push, pull, and networking.
+The ﬁrst two strategies consider social media to be one of many media channels and thus incorporate them into the existing
+channels. The push strategy employs social media as representatives, and the pull strategy uses them as advertising tools for
+directing audiences to other online media such as websites or blogs. The push and pull strategies have important advantages
+in the information sharing domains of public administration and services that require immediate delivery of information,
+such as public safety and crisis management (Jaeger and Bertot, 2010). In contrast, the networking strategy exhibits a distinct
+pattern of social media use: it uses social media as a tool for directly connecting with audiences and therefore enables active
+involvement of the audience in the communication or information sharing process, such as crowd-sourcing policies (Bonson
+et al., 2012; Cho and Park, 2012; Golbeck et al., 2010). Regarding the networking strategy, previous studies have noted that
+social media use in municipal governments can be effective in communicating with citizens and in inducing their involvement in government policies and actions.
+2.2. Trust theory
+Trust in the government is important for the legitimacy and stability of the political system because it encourages compliance with laws and regulations (Tolbert and Mossberger, 2006). One method of enhancing citizen trust in the government
+is to enhance their faith in the performance of the core institutions of the government (Welch et al., 2005). This causes more
+open and transparent government systems and more efﬁcient service delivery, which could help restore trust (Norris, 2003;
+Tolbert and Mossberger, 2006). Many scholars have referred to the importance of information technologies and improved
+channels of communication, which would reduce information gaps and improve citizen trust in the government as it
+increases communication between the government and its citizens (Chadwick and May, 2003; Rho and Kim, 2007). Trust
+is also created through an interrelationship between citizens and the government, and it can be built through citizen credibility in the information they exchange in communications (Corritore et al., 2003). The full information should be provided
+so that citizens can build credibility from the information that they know. A government provides information to its citizens
+in order to establish government-to-citizen trust and the public information is expected to have several characteristics of full
+information such as completeness, timeliness, and trustworthiness (Gelders, 2005). The government’s provision of information is also related to citizen access to the required information, i.e. the timing of the provision and the access to the
+
+M.J. Park et al. / Telematics and Informatics 32 (2015) 629–641
+
+631
+
+information, as well as the guarantee of the characteristics of the information. The government should ensure that the information has characteristics similar to the assurances of physical, intellectual, and social normative access whenever citizens
+use public information (Burnett et al., 2008; Jaeger and Bertot, 2010).
+An important point in conceptualizing trust understands the multidimensionality of both the content and the trusted target (Shapiro et al., 1992; Thomas, 1998). The content deﬁnes trust as a cognitive, emotional, and behavioral concept. The
+cognitive dimension is the process of choice in determining the object of trust on the basis of the information and knowledge
+known about the object, and the emotional dimension is the feeling of liking or disliking the object of trust and it consists of
+sentimental and emotional senses of bonding. Finally, the behavior aspect is deﬁned as the strong willingness for dependency between the trustee and the trustor. The multidimensionality of the trusted target implies that the object of trust
+could be human beings, organizations, or even institutions, society, and systems. The multidimensionality of the trusted target is related to relationship between the trust toward human being and institutions and the level of analysis in experimental studies.
+The important point in trust theory is the process through which trust could be shaped (Thomas, 1998). Based on this
+mechanism, Zucker (1986) classiﬁed these processes into process-based trust, characteristic-based trust, and institutionalbased trust according to the production patterns or foundation for trust. Process-based trust is shaped through the experience
+of continuous exchanging relationships or repeated compliance with expectations and the core is mutual reciprocity. In this
+context, trust is formed not by temporary events but by continuous and close relationships among the parties involved. The
+important point is the predictability in the action of the trustee and the following reputation, which is attained through
+repeated and multi-dimensional relationships. Characteristic-based trust consists of characteristic similarity between the
+trustor and the trustee. Such similarity originates from the ascribed characteristics of a group to which an individual belongs.
+It could have positive effect among those who share such similarities, while a negative impact is possible such as regionalism
+and racism, which are not uncommon in modern societies. Institutional-based trust results from ofﬁcial institutions or systems. The diversiﬁcation and differentiation of society and within society has weakened the automatic binding based on collective similarity and this is linked to shrunken spaces for process-based trust and characteristic-based trust. Under these
+circumstances, the production of trust is founded on institutions or systems that objectively demonstrate trust probability
+toward an object of trust (Zucker, 1986).
+
+3. Model and hypothesis development
+3.1. Conﬁdence in the agency by social media and trust in government
+The phenomenon of ‘‘transference’’, which originated in social psychology (Andersen and Baum, 1994), denotes a pattern of
+carrying over the effects of past relationships into future relationships based on the activation of a cognitive schema triggered
+by a relevant stimulus. In the marketing ﬁeld, numerous studies have documented the transfer of celebrity qualities such as
+trustworthiness, attractiveness, and expertise to advertised products, as well as the transfer of attitudes towards celebrities
+to brand attitudes (Ohanian, 1990). Furthermore, in the sponsorship and co-branding literature, symbiotic relationships have
+been observed with ‘‘transference of inherent values’’ from sponsored activities to sponsors and from one brand to another,
+which constructs co-branded identities (Motion et al., 2003). Other empirical ﬁndings have demonstrated that an affective
+commitment to a brand ‘‘spills over’’ to complementary brands and brand allies (Ruth and Simonin, 2003).
+The notion that trust in social media spills over to social media-hosted brands that are followed by users can be considered from the perspectives of Heider’s (1958) cognitive balance theory and Festinger’s (1946) theory of cognitive dissonance.
+According to the cognitive balance theory, social media users strive for harmony and balance in their attitudes toward social
+media and the brands they follow on those platforms. This means that those who have high trust in social media transfer this
+perception to the brands they follow on the platform. Similarly, the theory of cognitive dissonance predicts that those who
+experience dissonance in their trust toward a social media brand and the hosted brands are motivated to either abandon the
+platform or disassociate themselves from unreliable brands by not following them on social media. Thus, due to these cognitive and social processes, trust in social media services is expected to transfer to social media-hosted brands that are followed by users on the platform.
+This relational feature of trust raises the question of whether it is possible for citizens to trust the information services of
+a speciﬁc government agency and expand their trust to the overall government. Tolbert and Mossberger’s (2006) research on
+the use of e-government services by US citizens veriﬁed that a local government’s improvement in citizen responsiveness to
+its service is signiﬁcantly connected with the progress of citizen conﬁdence in the central government. Morgeson et al.
+(2011) also indicated that the e-government service and citizens’ general expectations and satisfaction of a service have a
+positive impact on their conﬁdence in an agency, and their expanded conﬁdence in the federal government of
+Washington had a causal relationship with their corresponding feelings. According to Hetherington (1998), feelings about
+particular aspects or speciﬁc parts of an entity should inﬂuence the perceptions of the entire entity. It indicates that because
+government agencies are components of the central government, feelings about the agencies inﬂuence the political trust in
+the overall government as well. Previous studies have discovered that citizen trust in a relevant agency and the expansion of
+that trust into a central government can be easily applied to the expansion of their trust from an agency to the overall government through G2C social media communication. Therefore, we hypothesize that:
+
+632
+
+M.J. Park et al. / Telematics and Informatics 32 (2015) 629–641
+
+H1. Citizen’s conﬁdence in the government agency providing a social media service positively affects trust in the overall
+government.
+
+3.2. Structural components of trust
+As stated above, most studies regarding government trust have focused on institutional-based trust, which is based on
+institutions and systems objectively demonstrating trust probability toward an object of trust, rather than process-based
+trust and characteristic-based trust (Welch et al., 2005). However, because recent government services using social media
+possess the characteristics of an environment that enables customized services, openness, and bilateral communication,
+such properties address the importance of characteristic-based trust and process-based trust (Khan et al., 2012).
+Therefore, based on Zucker’s theory, this paper proposes an integrated model that involves all three production patterns
+or grounds of trust).
+3.2.1. Institution-based trust
+Institution-based trust is based on guarantees and recommendations from third parties (Shapiro et al., 1992). Lane and
+Bachmann (1996) argue that trust-based relations rarely evolve spontaneously at the individual level, but are highly dependent on the existence of stable institutions. Zucker (1986) suggests that institutional trust is the most important mode of
+trust creation in diverse transaction and business environments where there is no previous interaction and where the participants may come from different social and cultural backgrounds. Institution-based trust exists when trust is tied to the
+existence of structures assurance, which is independent of dyadic actions (Pavlou and Gefen, 2004). From the perspective
+of trust in governments, structures assurance results from citizens’ positive attitudes that the government is transparent,
+responsible, efﬁcient, and effective (Tolbert and Mossberger, 2006). Government service provision through online media
+including e-government contributes to the formation of such positive reputation (Kim et al., 2013). Citizens can perceive
+governments as transparent through the posting of information such as news, data, policies, and visions of government; furthermore, searchable databases in a government’s social media may also make information searches easier for citizens.
+Furthermore, as citizens may perceive a government’s social media as efﬁcient and effective through the use of the latest
+technology to automate processes, improve service delivery, produce budget savings, and save time. Online transactions
+and downloadable forms are examples of more efﬁcient and effective processes that can be facilitated through a government’s social media. Therefore, we hypothesize that:
+H2a (b). Structural assurance toward government’s social media positively affects conﬁdence in the agency providing the
+social media (or overall trust in the government).
+Generally, institutional-based trust can be explained beyond a given transaction and beyond speciﬁc sets of exchange
+partners (Zucker, 1986). People base their expectations regarding the behavior of others whom they do not know on the
+quality of the institutional system (Rothstein and Stolle, 2003). Institutions have a capacity to generalize trust among its citizens to the extent to which they embody the values of impartiality, justice, and truth, and mediate efﬁciently between people and sanction untrustworthy behavior (Rus and Iglič, 2005). It is the implied normative meaning of the institutions that
+allows people to trust (or not to trust) others who are involved in the same institutions even though they may be strangers.
+Ba and Pavlou (2002) indicated that trust is a subjective assessment of one party that another party will perform a particular
+interaction according to his or her conﬁdent expectations in an environment characterized by uncertainty. In the IS literature, Bhattacherjee (2001) proposed an expectation-conﬁrmation model (ECM) of IS continuance based on the congruence
+between individuals’ continued IS usage decisions and users’ repeated interaction decisions. The conﬁrmation of expectations indicates that users obtained the expected beneﬁts through their usage experiences with the IS, and thus leads to a
+positive effect on user satisfaction and trust in the transaction partner (Lee, 2010). When they are provided government services through new media, citizens expect better service than that given through the existing media and the satisfaction of
+such expectation is connected to increased trust toward the government (Welch et al., 2005). In particular, extended participation and fair and equal information access, which are the properties of government services provided through social
+media, lead to higher expectations of citizens toward the media as compared with other media (Valenzuela et al., 2009),
+and expectation conﬁrmation increases trust toward the government. Therefore, we hypothesize that:
+H3a (b). Expectation conﬁrmation toward government’s social media positively affects conﬁdence in the agency providing
+the social media (or overall trust in the government).
+
+3.2.2. Process-based trust
+In a contemporary society that is characterized by social diversity, people interact with others whom they may not know
+well. In this context, dealing with people focuses on developing weak social ties that are invaluable for obtaining access to
+otherwise unavailable resources. Process-based trust is shaped by the experience of continuous exchanging relationships or
+repeated compliance with expectations and the core is mutual reciprocity (Khodyakov, 2007). Ostrom (2000) proposed principles for a collective action decision-making theory for common resources; a dynamic relationship among reciprocity,
+
+M.J. Park et al. / Telematics and Informatics 32 (2015) 629–641
+
+633
+
+cooperation, and trust; and a set of situational variables that inﬂuence the dynamics of the cooperation in the appropriation
+of common resources. From the perspective of trust in the government, reciprocity is the signiﬁcant factor in constructing
+trust between the government and its citizens, which stems from the recognition that the government is responsive and
+accessible (Tolbert and Mossberger, 2006), and government services using social media positively affects the increase of
+reciprocity (Khodyakov, 2007). Citizens perceive the government as responsive and accessible through improved communication and interactions with them. Social media creates new opportunities for interaction with ofﬁcials that are convenient
+and quick, which potentially enhance the government’s responsiveness. Therefore, we hypothesize that:
+H4a (b). Reciprocity of liking a government’s social media positively affects conﬁdence in the agency providing the social
+media (or overall trust in the government).
+Process-based trust is created through social exchanges between organizations and individuals: successful experiences
+build trust for future exchanges. This closely parallels social exchange theory (Putnam, 1995), which suggests that people
+look beyond short-term transactions and evaluate long-term relationships and gains. Ellison et al. (2007) examined
+Facebook relationships and argued that social media can increase social capital by bridging weak ties and reinforcing strong
+ones. Weak ties refer to short-term and less intimate relationships and can function as an effective source of information,
+whereas strong ties are formed from long-term relationships and provide emotional support. In particular, Ellison et al.
+(2007) noted an increase in weak ties and their maintenance, which indicates that latent ties are converted to weak ties,
+which ultimately accumulate as social capital, through social media. In this context, trust is formed not by temporary events
+but by continuous and close relationships among the parties concerned. The important point is the predictability in the
+action of the trustee and the following reputation, which is attained through repeated and multi-dimensional relationships
+(Khodyakov, 2007).
+This implies that the creation of trust can be signiﬁcantly facilitated if the trustor turns to a well-known and trustworthy
+intermediary for information about the trustee, and if the intermediary afﬁrms the trustworthiness of the potential trustee
+(Uslaner, 2002). Furthermore, having a positive image of the intermediary directly inﬂuences the trustee’s trustworthiness.
+That is, process-based trust is created through interacting with people whom we do not know well and depends on the positive reputation of either a potential trustee or a trustworthy intermediary. Therefore, we hypothesize that:
+H5a (b). Reputation toward a government’s social media positively affects the conﬁdence in the agency providing the social
+media (or overall trust in the government).
+
+3.2.3. Characteristic-based trust
+Characteristic-based trust consists of the characteristic similarity between the trustor and the trustee. Such similarity
+originates from the ascribed characteristics of a group to which an individual belongs (Zucker, 1986). According to social
+identity theory (Tajfel and Turner, 1986), similar attitudes, personality traits, backgrounds, and perceptions about life invoke
+cultural stereotypes and lead to categorizing people into social ‘‘in-groups’’. Furthermore, social response theory (Moon,
+2003) posits that people apply social rules in communicating with humanlike virtual entities; several studies conﬁrmed that
+consumers exhibit preferences to interact with computers possessing similar personalities and are more satisﬁed with such
+interactions (Nass et al., 1996). In online contexts, it has been demonstrated that an avatar’s internal similarity to the user
+positively affects the interaction intentions (Pentina and Taylor, 2010). It is possible that social media users also consider
+perceived similarity when making the decision to trust, join, and continue to use social media sites. Understanding user perceptions of social media brand identities and their assessments of how strongly these sites match and reﬂect their own identities may be important for creating new and unique social media brands that can be trusted, and for uniquely utilizing social
+media sites for public relations (PR) with citizens (Pentina et al., 2013). Brands have been proposed to represent stances of
+socially constructed identities, which have been created by both marketers and consumers, which reﬂect the characteristics
+associated with typical users as well as with advertising images and associations (Poddar et al., 2009). Thus, the perceived
+characteristic similarity among parties involved in communication and interaction is beneﬁcial for increasing trust. Thus, we
+hypothesis that:
+H6a (b). Perceived characteristic similarity toward government’s social media positively affects citizen conﬁdence in the
+agency providing the social media (the overall trust in the government).
+
+3.3. Trust, patronage intention, and actual patronage behavior
+In marketing, previous studies have found positive effects of trust on the likelihood of continuing a relationship, longterm orientation of the trustor, and consumer intent to make a purchase (Doney and Cannon, 1997). Understanding whether
+and how trust in online websites affects user intentions to continue their membership and to recommend these sites to
+others is important for marketing researchers and practitioners (Nielsen, 2009). Based on the theory of reasoned action
+(Ajzen and Fishbein, 1980), trust can be viewed as an antecedent belief (a conﬁdent expectation) that creates a positive attitude toward the transaction behavior (Hong and Cho, 2011; Jarvenpaa et al., 2000), which in turn leads to transaction
+
+634
+
+M.J. Park et al. / Telematics and Informatics 32 (2015) 629–641
+
+intentions. Such ﬁndings from the online marketing ﬁeld could be applied to interactions between citizens and government
+services through social media, and they are connected to assurances of trust, patronage intention, and actual patronage
+behavior (Udo et al., 2010). Given the previous ﬁndings of the positive role of brand trust in brand relationship continuation
+and the increased importance of trust in the social media context, we propose that trust towards a government’s social
+media is an important determinant of citizen patronage (continuance and recommendation) intentions toward social media.
+Thus, we hypothesize that:
+H7. Trust in the government positively affects intention to patronage behavior toward government’s social media.
+
+H8. Conﬁdence in the government agency providing the social media positively affects the intention to patronage behavior
+toward government’s social media.
+H9. Patronage intention toward social media positively affects actual patronage behavior.
+3.3.1. Trust propensity
+Trust in government is also the product of the general trust propensity of an individual. Trust propensity is formed
+through socialization and life experiences, and is invariant across situations (Gefen et al., 2000; Whitener et al., 1998).
+Because the propensity to trust has been demonstrated to increase trust in online contexts (Gefen et al., 2000), its effect
+on conﬁdence in the agency and trust in government is controlled (Pavlou and Gefen, 2004).
+3.3.2. Expected performance
+Whereas past experience draws on a citizen’s own prior encounters with a government agency, they also have a general
+knowledge about the average performance of government agencies in speciﬁc services. According to Reichheld and Schefter
+(2000), outstanding interaction performance in general contributes to customer loyalty and willingness to transact with its
+partners. Thus, the impression of the performance of government services via particular media (social media in this study) is
+added as a control variable; it is proposed to control patronage intention toward social media (Pavlou and Gefen, 2004).
+3.4. Research model
+The diversity antecedents of trust in a government’s social media and citizen patronage behavior, which this study
+focuses on, are summarized based on the ten hypotheses given. These relationships and hypotheses among all relevant variables are condensed in Fig. 1.
+
+Institution-based Trust
+
+Structural
+Assurance
+Expectation
+Confirmation
+
+H2a
+
+H2b
+H3a
+
+H3b
+
+Confidence in
+the Agency
+
+Process-based Trust
+
+Reciprocity of
+Licking
+
+Characteristic-based Trust
+
+Perceived
+Personality Match
+
+H9
+
+H4a
+H4b
+
+H5a
+
+Reputation
+
+H7
+
+H5b
+
+Patronage
+Intention toward
+Social Media
+
+H1
+
+Trust in
+Government
+
+Actual
+Patronage
+Behavior
+
+H8
+
+H6a
+H6b
+
+Control variable
+Trust Propensity
+
+Fig. 1. Research model.
+
+Expected Performance
+
+635
+
+M.J. Park et al. / Telematics and Informatics 32 (2015) 629–641
+
+4. Method
+For data analysis, partial least square (PLS) was used as it is able to analyze the structure equation model. Veriﬁcation of
+the reliability and validity of the measurement tool as well as veriﬁcation of the structure model was conducted to verify the
+hypothesis. PLS is a structure equation model for multivariate analysis, and there are some key differences with conventional
+structure equation methods that use covariance analysis. While most covariance analysis models employ a factor analysis for
+the correlation analysis between latent variables and measurement items, PLS uses a main factor analysis method. PLS uses
+the method of minimizing the prediction error between the measurement error and the latent variables to maximize the
+predictive performance of the path coefﬁcients (Haenlein and Kaplan, 2004). Therefore, the indices obtained in the ﬁnal
+results are expressed as R2 values show how well the independent variables predict the dependent variables rather than
+indices showing goodness of ﬁt of models such as GFI, NFI, or NFFI. Since PLS can be implemented with a smaller sample
+size compared to structure equation analysis methods such as LISREL, EQS, and AMOS, it was used to analyze the validity
+of this study and conduct a causal analysis.
+4.1. Sample and procedure
+With the world best wire and wireless Internet access and the prevalence of mobile devices including smart phones and
+the increased use of social media in Korea, since December 2012, social media have become the most popular online services
+and all Korean government entities including all forty-seven government departments and parliament use social media. The
+Korean government believes that the social media provided by the government agencies will result in a more democratic and
+efﬁcient governing structure (Kim et al., 2013). In this respect, the Korean government is endeavoring to convert its image
+from a closed image to an image of openness, communication, and sharing.
+In this study, the survey data was obtained from Korean population who were eligible to vote and who used Facebook. In
+order to collect the samples, we explained to the Facebook account webmasters of the South Korean government agencies
+and departments (16 accounts) the intention and purpose of this study and requested cooperation; then, we posted a message on the relevant Facebook accounts regarding the collection of survey samples. Next, we obtained 442 samples from the
+followers of the Facebook accounts of the South Korean government organizations and limited them to South Korean residents of voting age (above 20) in accordance with the purpose of the study, deleted overlapping respondents, and ﬁnally
+selected 425 samples. An online survey was conducted in December 2013. Samples with characteristics of duplication or
+inconsistency were excluded. After these processes for ensuring data quality, 405 responses were deemed eligible for analysis. The demographic proﬁles of the respondents are presented in Table 1.
+In the survey, the variables were quantiﬁed using a seven-point Likert scale: from one representing ‘strongly disagree’ to
+seven representing ‘strongly agree’, with a neutral point in the middle. All measures are validated and conﬁrmed using reliability analyses and conﬁrmatory factor analyses.
+
+Table 1
+Demographic proﬁle of survey respondents.
+Dimension
+
+Category
+
+Items
+
+Frequency
+
+Percent (%)
+
+Demographic Information
+
+Gender
+
+Male
+Female
+Sum
+20–29
+30–39
+40–49
+Over 50
+Sum
+High school diploma
+Univ. student
+Bachelor degree
+Master (or Ph.d)
+Sum
+Under 3 months
+3–6 months
+6–12 months
+12–24 months
+Over 24 months
+Sum
+Under 1 h
+1–2 h
+2–3 h
+Over 3 h
+Sum
+
+234
+171
+405
+151
+195
+55
+4
+405
+33
+20
+309
+43
+405
+84
+95
+136
+62
+28
+405
+162
+119
+97
+27
+405
+
+57.8
+42.2
+100.0
+37.3
+48.1
+13.6
+1.0
+100.0
+8.2
+4.9
+76.3
+10.6
+100.0
+20.7
+23.5
+33.6
+15.3
+6.9
+100.0
+40.0
+29.4
+24.0
+6.6
+100.0
+
+Age
+
+Education
+
+Usage of Government Social Media Service
+
+Duration of joining government social media
+
+Hours of social media usage per day
+
+636
+
+M.J. Park et al. / Telematics and Informatics 32 (2015) 629–641
+
+4.2. Assessment of the measurement and structural model
+In this study, Cronbach’s a value was investigated to verify the internal consistency, or reliability, of the measurement
+tool. According to Table 2, Cronbach’s a value for all the variables was greater than 0.7 and the standard value and the factor
+loading was also greater than 0.7 (Gefen and Straub, 2005). Comparing the Cronbach’s a reliability veriﬁcation and factor
+loading, the measurement tool reliability was found to be appropriate. In order to investigate the convergent validity and
+discriminant validity, a conﬁrmatory factor analysis was conducted. When the loading factor was greater than 0.7, it was
+considered to have convergent validity. As shown in Table 2, all loading factors were greater than 0.7. Therefore, the conﬁrmatory factor analysis was conducted in this study revealed that the measurement tool used in this work had convergent
+validity. Also, the general standard value for Composite Reliability (C.R.) is 0.7 (Gefen and Straub, 2005), and if the resulting
+value exceeds this standard value, it can be concluded that the measurement tool has internal consistency and convergent
+validity. Veriﬁcation results showed that the measurement tool used in this study had sufﬁcient reliability as the resulting
+C.R. values were all above 0.8. Moreover, the Average Variance Extracted (AVE) value for each latent variable was examined.
+The AVE represents the size of the distribution shared by one latent variable and the measurement items that measure that
+latent variable. Hence, if the AVE is large, it means that the distribution of the measurement items that one latent variable
+explains is large, and thus the convergent validity is also large. The AVE veriﬁcation results showed that the AVE values for all
+the latent variables ranged from 0.729 to 0.888 and were greater than the standard value of 0.5, which reveals that the convergent validity is appropriate.
+A cross-loading analysis and AVE square root analysis were conducted to verify the discriminant validity. The loadings for
+the constructs of all the latent variables were greater than 0.7 and all the factor loadings were signiﬁcant at a 0.01 conﬁdence
+level. In addition, the loadings for other constructs were below 0.7. This showed that the measurement tool held discriminant validity. The AVE analysis compares the correlation coefﬁcient between each latent variable and their AVE square root
+value. When the AVE square root value of a latent variable is greater than the correlation coefﬁcient between that latent variable and the other latent variables, the discriminant validity exists. As shown in Table 3, each AVE square root value is larger
+
+Table 2
+Conﬁrmatory factor analysis and reliability test.
+Factor
+
+Structural assurance
+
+Expectation conﬁrmation
+
+Reciprocity of licking
+
+Reputation
+
+Perceived personality match
+
+Conﬁdence in the agency
+
+Trust in government
+
+Patronage intention toward social media
+
+Actual patronage behavior
+
+Measurement items
+
+SA1
+SA2
+SA3
+SA4
+EC1
+EC2
+SC3
+RL1
+RL2
+RL3
+RP1
+RP2
+RP3
+PM1
+PM2
+PM3
+CA1
+CA2
+CA3
+CA4
+TG1
+TG2
+TG3
+TG4
+TG5
+TG6
+PI1
+PI2
+PI3
+PB1
+PB2
+PB3
+
+Reliability
+
+Convergent validity
+
+Factor loading
+
+Conﬁrmatory factor analysis
+p-Value
+
+Mean
+
+S.D.
+
+Alpha
+
+C.R.
+
+AVE
+
+0.925
+0.908
+0.958
+0.920
+0.849
+0.868
+0.832
+0.835
+0.881
+0.871
+0.827
+0.882
+0.789
+0.865
+0.815
+0.848
+0.811
+0.913
+0.921
+0.908
+0.897
+0.888
+0.856
+0.902
+0.895
+0.801
+0.951
+0.812
+0.826
+0.853
+0.872
+0.835
+
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+p < 0.01
+
+6.06
+6.33
+6.23
+6.34
+5.76
+5.71
+5.98
+5.84
+5.74
+5.43
+5.41
+5.58
+5.35
+4.83
+4.72
+5.13
+5.06
+4.50
+4.66
+4.65
+3.98
+3.10
+4.19
+3.49
+3.85
+4.15
+5.23
+5.14
+5.64
+5.74
+5.81
+5.29
+
+1.13
+0.96
+1.04
+0.96
+1.08
+1.26
+1.11
+1.19
+1.18
+1.31
+1.14
+1.12
+1.26
+1.16
+1.24
+1.19
+1.24
+1.27
+1.26
+1.19
+1.41
+1.60
+1.40
+1.54
+1.46
+0.98
+0.82
+0.75
+1.15
+0.88
+0.91
+1.10
+
+0.758
+
+0.915
+
+0.844
+
+0.872
+
+0.941
+
+0.888
+
+0.860
+
+0.911
+
+0.773
+
+0.935
+
+0.898
+
+0.746
+
+0.874
+
+0.921
+
+0.795
+
+0.926
+
+0.915
+
+0.844
+
+0.913
+
+0.885
+
+0.729
+
+0.878
+
+0.860
+
+0.754
+
+0.851
+
+0.927
+
+0.824
+
+Note:
+All items underlying the above constructs were measured using seven-point Likert-type scales (1 = strongly disagree, 7 = strongly agree)
+SA: structural assurance; EC: expectation conﬁrmation; RL: reciprocity of licking; RP: reputation; PM, perceived personality match; CA: conﬁdence in the
+agency; TG: trust in government; PI: patronage intention; PB: patronage behavior; SD: standard deviation.
+
+637
+
+M.J. Park et al. / Telematics and Informatics 32 (2015) 629–641
+Table 3
+The result of discriminant validity analysis.
+
+SA
+EC
+RL
+RP
+CS
+PM
+CA
+TG
+PI
+CMB
+AP
+
+SA
+
+EC
+
+1(0.952)*
+0.688
+0.651
+0.592
+0.641
+0.612
+0.723
+0.678
+0.662
+0.094
+0.618
+
+1(0.948)
+0.631
+0.618
+0.481
+0.511
+0.683
+0.691
+0.656
+0.013
+0.638
+
+RL
+
+RP
+
+CS
+
+PM
+
+CA
+
+TG
+
+PI
+
+AP
+
+*
+
+1(0.941)
+0.498
+0.491
+0.516
+0.711
+0.604
+0.648
+0.069
+0.652
+
+*
+
+1(0.928)
+0.533
+0.489
+0.709
+0.619
+0.633
+0.032
+0.629
+
+*
+
+1(0.953)
+0.528
+0.544
+0.528
+0.591
+0.112
+0.588
+
+*
+
+1(0.962)
+0.725
+0.475
+0.513
+0.025
+0.553
+
+*
+
+1(0.929)
+0.723
+0.615
+0.092
+0.629
+
+*
+
+1(0.931)
+0.679
+0.101
+0.668
+
+*
+
+1(0.944)
+0.087
+0.656
+
+*
+
+0.041
+1(0.949)
+
+*
+
+Note: SA: structural assurance; EC: expectation conﬁrmation; RL: reciprocity of licking; RP: reputation; PM, perceived personality match; CA: conﬁdence in
+the agency; TG: trust in government; PI: patronage intention; PB: patronage behavior; CMB: construct for checking common method biased.
+*
+Indicate the squared-root value of AVE.
+
+Institution-based Trust
+
+Structural
+Assurance
+.279**
+.211*
+
+Expectation
+Confirmation
+
+R2 = 0.62
+.237**
+
+Confidence in
+the Agency
+
+.292**
+
+Process-based Trust
+
+.193*
+
+.337**
+
+.451***
+
+.413**
+.187
+
+Reciprocity of
+Licking
+
+Trust in
+Government
+
+Patronage
+Intention toward
+Social Media
+
+Actual
+Patronage
+Behavior
+
+R2 = 0.45
+
+R2 = 0.51
+
+.291**
+
+.229**
+R2 = 0.73
+
+Reputation
+
+.242
+
+.198***
+.078
+
+Characteristic-based Trust
+
+Perceived
+Personality Match
+
+Fig. 2. Results of model analysis: ⁄ p < 0.1,
+
+⁄⁄
+
+p < 0.05,
+
+⁄⁄⁄
+
+p < 0.01. Note: Bold line shows signiﬁcant relationship and dotted line shows not signiﬁcant.
+
+than the correlation coefﬁcients of the adjacent column and row, and thus the discriminant validity of the measurement tool
+used in this study was conﬁrmed. Also, it was found that there was no common method bias (CMB) in this study as the correlation coefﬁcients between all the variables, and the variables added to measure the existence of CMB in the measurement
+results, were all very low.
+
+4.3. Hypotheses testing
+The results of the hypotheses testing are presented in Fig. 2. The results demonstrate that there is a signiﬁcant positive
+relationship between citizen conﬁdence in the agency providing the social media service and overall trust in the government
+(b = 0.413, t = 2.152). Structural assurance toward the social media is positively related to both citizen conﬁdence in the
+agency providing social media service (b = 0.279, t = 2.148) and overall trust in the government (b = 0.211, t = 1.688) based
+
+638
+
+M.J. Park et al. / Telematics and Informatics 32 (2015) 629–641
+
+on the path coefﬁcients and t-statistic measurements. The expectation conﬁrmation toward social media is positively related
+to both citizen conﬁdence in the agency providing the social media service (b = 0.237, t = 2.098) and overall trust in the government (b = 0.292, t = 2.112) based on the path coefﬁcients and t-statistic measurements. Furthermore, the results indicate
+that there is a signiﬁcant positive relationship between the reciprocity of liking, reputation, and perceived personality match
+and citizen conﬁdence in the agency providing the social media service (b = 0.193, t = 1.653; b = 0.229, t = 2.146; b = 0.198,
+t = 2.127); however, the relationship between them and their overall trust in the government is not signiﬁcant (b = 0.187,
+t = 0.934; b = 0.078, t = 0.615). The result also demonstrates that both citizen conﬁdence in the agency providing the social
+media service and trust in the government have a signiﬁcant positive relationship with citizen patronage intention toward
+social media services (b = 0.337, t = 2.210; b = 0.291, t = 2.187). Finally, the results indicate that there is a signiﬁcant positive
+relationship between citizen patronage intention toward social media services and citizen actual patronage behavior
+(b = 0.451, t = 2.834).
+
+5. Implications
+The results indicate that the formation of citizen trust in the government can be expanded into patronage intention
+toward social media and actual behavior. Secured trust toward the government is another opportunity to activate citizen
+participation in the social media provided by the government. Furthermore, in addition to using the services, the characteristics of the social media easily expand the range of participants due to the geometrically increased effect of the content and
+information; this originates from ‘recommendations’ and ‘shares’, which are free and easy functions in social media. The
+results point out that both structural assurance and expectation conﬁrmation, which compose institution-based trust, have
+a positive and signiﬁcant relationship with citizen conﬁdence toward the agency providing the social media service; they are
+also positively and signiﬁcantly related to the overall trust in the government. This demonstrates that the existing studies
+(Tolbert and Mossberger, 2006), which emphasize that the production of trust is based on institutions or trust objectively
+demonstrating trust probability toward an object of trust and institution-based trust are more important factors than others,
+can be applied to trust production among citizens and governments through social media channels. Citizen satisfaction and
+positive perception of administrative services, information openness, real time responses, and relationship formation
+through social media evoke a sense of stability. Furthermore, citizens have increased expectations of government services
+in social media compared with ofﬂine and e-government services. Once such expectations are satisﬁed, trust toward the government increases. Therefore, it is important for governments to improve the content and service quality of their social
+media services in order to secure citizen trust in government services provided through social media.
+Another result also demonstrated that reciprocity of liking and reputation, which comprise process-based trust, positively
+and signiﬁcantly affect citizen conﬁdence in the agency providing the social media service, while linkages to the overall trust
+in government are insigniﬁcant. This implies that process-based trust is secured through experience of continuous exchange
+relationships or repeated conﬁrmation of trust between the citizen and government, and trust is expanded to the government level after trust toward the agency is satisﬁed. Meanwhile, trust in this context is formed not through temporary events
+but through continuous and close relationships among the parties concerned based on mutual reciprocity. The important
+point is the predictability in the actions of the trustee and the resulting reputation, which is attained through repeated
+and multi-dimensional relationships. The properties of social media such as real time communication, immediacy, and ease
+of relationships increase the possibility of trust insurance through process-based trust compared with existing communication channels, and the government must appropriately use such advantages to improve citizen trust toward the government.
+Perceived personality match of characteristic-based trust have the same effect as factors of process-based trust. Positive
+and signiﬁcant relationships with citizen conﬁdence in the government agency were found, but there was an insigniﬁcant
+relationship with the overall trust in the government. Perceived personality match among the parties communicating and
+interacting is beneﬁcial for improving trust; in particular, it implies that the properties of social media (Aharony, 2012),
+i.e. an environment enabling customized service, openness, and bilateral communication, contribute to increasing citizen’s
+perceived characteristic match toward social media services and it positively affects trust in the government. This result
+implies governments need to create customized environments for services and systems to promote citizen’s trust toward
+government.
+
+6. Conclusion
+This study is meaningful as research that discovers the antecedents of trust in government social media use employing
+Zucker’s integrated perspective for the structural components of trust. This study implemented an empirical analysis of the
+antecedents and formation of citizen trust building and expansion in the actual citizen patronage behavior based on Zucker’s
+trust theory. This study demonstrate that factors related institutional-based trust, characteristic-based trust, and processbased trust contribute to improving trust through government social media services. Therefore, governments should try
+to fully understand components and related factors of not only institution-based trust, but also characteristic-based trust
+and process-based trust through appropriately considering the characteristics of social media for the purpose of G2C
+services.
+
+M.J. Park et al. / Telematics and Informatics 32 (2015) 629–641
+
+639
+
+In addition, this research also point out that the formation of citizen trust in the government could be expanded into
+patronage intention toward social media and actual behavior. Because the participation in social media increases through
+geometric progression, it is expected that not only simple use by citizens but also patronage behavior further accelerate
+the participation of others. That is, it was found that trust toward the government is simultaneously a factor facilitating citizen participation in social media provided by the government and an outcome resulting from social media. Thus, each government should create a policy direction of ensuring trust, promoting participation, and linking it to trust improvement.
+Finally, this study emphasizes the importance of appropriate understanding of the media characteristics of social media
+in order to increase citizen’s trust with government social media services.
+7. Limitation and further study
+The relationship between the factor for trust insurance and social media use, and the evaluation of citizen patronage
+behavior effects addressed in this paper, requires strict analyses considering personal characteristics such as different populations. For example, the expansion effect of citizen trust extracted from Facebook could differ in other SNS channels such
+as Twitter according to the properties of the media and communication systems. Accordingly, studies that compare SNSs
+such as Twitter, Facebook, and non-SNSs such as websites are required in order to conﬁrm a generalized logic for government trust in social media. And, in order to generalize the results of this study, veriﬁcation through cross-cultural studies
+should be undertaken. Although both trust propensity and expected performance were used as the control variables when
+verifying the hypotheses, the antecedents of the trust in government effects addressed in this research require stricter analyses but also consider different personal characteristics such as sex and age.
+Appendix A. Constructs and variables in the research model
+
+Construct
+
+Measurement Items
+
+Deﬁnition
+
+Conﬁdence in
+the Agency
+
+Potential for service development
+
+I feel the agency’s social media service will provide better
+SNS government-service to citizens
+I feel the agency’s social media service promoted me to
+have positive mind to government authorities
+How much do you have conﬁdence in the government
+agency and its service?
+How much do you have conﬁdence in the contents that a
+government agency provides in social media?
+How much do you have conﬁdence in the Korean
+government?
+I feel that the Korean government does not waste people’s
+taxes
+I feel that the Korean government does the public work that
+people want
+I feel that the Korean government does its best for people
+I feel that the Korean government has the competence in
+solving public problems
+I feel that the Korean government performs its task with
+honesty and integrity
+I feel that contents are appropriate to users by the
+government’s social media service
+I feel that contents are accurate to users by the
+government’s social media service
+I feel that contents are well-timed to users by the
+government’s social media service
+I feel that contents are reliable by the government’s social
+media service
+In the perspective of feedback and response from
+government, the government’s social media services live up
+to my expectations
+In the perspective of service quality, the government’s
+social media services live up to my expectations
+
+Positive attitude toward the agency
+
+Trust in
+government
+
+User conﬁdence in government and its
+service
+User conﬁdence in the contents
+provided by government social media
+Overall trust
+
+Trust in parts
+
+Structural
+assurance
+
+Appropriateness of contents
+Accuracy of contents
+Timeliness of contents
+Overall trust in media
+
+Expectation
+conﬁrmation
+
+Feedback and response
+
+Service quality
+
+(continued on next page)
+
+640
+
+M.J. Park et al. / Telematics and Informatics 32 (2015) 629–641
+
+Appendix A (continued)
+
+Construct
+
+Measurement Items
+
+Deﬁnition
+
+Contents quality
+
+In the perspective of contents quality, the government’s
+social media services live up to my expectations
+In the perspective of system quality, the government’s
+social media services live up to my expectations
+I feel that the Korea government and I have a strong
+commitment to social media service for communication
+with each other
+I feel that the Korea government has positive effects to me
+through social media service and I also have positive effects
+to government
+I feel satisﬁed with the communication process and
+contents on social media between Korean government and
+me
+I have a positive reputation in government’s social media
+service
+My colleagues have a positive perspective about the
+participation and use of government’s social media service
+My experience using government’s social media is
+beneﬁcial
+I am not strange to communication with participators on
+government’s social media service
+I am not strange to share information or knowledge with
+participators on government’s social media service
+I am not strange to participate in government’s social media
+service
+Social media’s media characteristics match with me well
+Government’s social media services match with me well
+Technological features of government’s social media match
+with me well
+I actively intend to patronage government’s social media
+service to others
+
+System quality
+Reciprocity of
+licking
+
+Commitment
+
+Positive effects
+
+Satisfaction
+
+Reputation
+
+Overall reputation
+Colleague’s perspective
+Beneﬁcial experience
+
+Characteristic
+Similarity
+
+Communication
+Information sharing
+Engagement
+
+Perceived
+personality
+match
+
+Media synchronization
+Service-user ﬁt
+Technology-user ﬁt
+
+Patronage
+intention
+toward
+Social media
+
+Patronage intention
+
+Support
+Communication channel
+
+Actual
+patronage
+behavior
+
+Recommendation
+Actual use
+
+I intend to support others’ use of government’s social media
+service
+Government’s social media is very important channel in the
+perspective of G2C communication
+I want to highly recommend government’s social media
+service to others
+I will continuously use government’s social media service
+I don’t hesitate to use government’s social media service
+
+References
+Aharony, N., 2012. Twitter use by three political leaders: an exploratory analysis. Online Inf. Rev. 36 (4), 587–603.
+Ajzen, I., Fishbein, M., 1980. Understanding Attitudes and Predicting Social Behavior. Prentice Hall, Englewood Cliffs, NJ.
+Andersen, S.M., Baum, A., 1994. Transference in interpersonal relations: inferences and affect based on signiﬁcant-other representations. J. Pers. 62, 459–
+498.
+Ba, S., Pavlou, P.A., 2002. Evidence of the effect of trust building technology in electronic markets: price premiums and buyer behavior. MIS Q. 26 (3), 243–
+268.
+Bertot, J.C., Jaeger, P.T., Grimes, J.M., 2010. Using ICTs to create a culture of transparency: E-government and social media as openness and anti-corruption
+tools for societies. Gov. Inf. Q. 27 (3), 264–271.
+Bhattacherjee, A., 2001. Understanding information systems continuance: an expectation-conﬁrmation model. MIS Q. 25 (3), 351–370.
+Bonson, E., Torres, L., Royo, S., Flores, F., 2012. Local e-government 2.0: social media and corporate transparency in municipalities. Gov. Inf. Q. 29 (2), 123–
+132.
+Burnett, G.J., Paul, T., Thompson, K.M., 2008. Normative behavior and information: the social aspects of information access. Libr. Inf. Sci. 30 (1), 56–66.
+Chadwick, A., May, C., 2003. Interaction between states and citizens in the age of the internet: ‘‘e-government’’ in the United States, Britain, and the
+European Union. Gov. Int. J. Policy Admin. Inst. 16 (2), 271–300.
+Cho, S.E., Park, H.W., 2012. Government organizations’ innovative use of the Internet: the case of the Twitter activity of South Korea’s ministry for food,
+agriculture. Forest. Fish. Sci. 90 (1), 9–23.
+Corritore, C.L., Kracher, B., Wiedenbeck, S., 2003. On-line trust: concepts, evolving themes, a model. Int. J. Hum. Comput. Stud. 58 (6), 737–758.
+
+M.J. Park et al. / Telematics and Informatics 32 (2015) 629–641
+
+641
+
+Doney, P.M., Cannon, J.P., 1997. An examination of the nature of trust in buyer–seller relationships. J. Mark. 61, 35–51.
+Ellison, N.B., Steinﬁeld, C., Lampe, C., 2007. The beneﬁts of Facebook ‘friends’: exploring the relationship between college students’ use of online social
+networks and social capital. J. Comput. Mediat. Commun. 12, 1143–1168.
+Festinger, L., 1946. The signiﬁcance of difference between means without reference to the frequency distribution function. Psychometrika 11 (2), 97–105.
+Gefen, D., Straub, D.W., 2005. A practical guide to factorial validity using PLS-graph: tutorial and annotated example. Commun. ACM 16 (1), 91–109.
+Gefen, D., Straub, D.W., Boudreau, M.C., 2000. Structural equation modeling and regression: guidelines for research practice. Commun. ACM 4 (7), 1–70.
+Gelders, D., 2005. Public information provision about policy intentions: the Dutch and Belgian experience. Gov. Inf. Q. 22 (1), 75–95.
+Golbeck, J., Grimes, J.M., Rogers, A., 2010. Twitter use by the U.S. congress. J. Am. Soc. Inf. Sci. Technol. 61 (8), 1612–1621.
+Haenlein, M., Kaplan, A.M., 2004. A beginner’s guide to partial least squares analysis. Understanding Statistics 3 (4), 283–297.
+Heider, F., 1958. The Psychology of Interpersonal Relations. Wiley, New York.
+Hetherington, M.J., 1998. The political relevance of political trust. Am. Polit. Sci. Rev. 92 (4), 791–808.
+Hong, H., 2013. Government websites and social media’s inﬂuence on government–public relationships. Public Relat. Rev. 39 (4), 346–356.
+Hong, I.B., Cho, H., 2011. The impact of consumer trust on attitudinal loyalty and purchase intentions in B2C e-marketplaces: intermediary trust vs. seller
+trust. Int. J. Inf. Manage. 31 (5), 469–479.
+Jaeger, P.T., Bertot, J.C., 2010. Transparency and technological change: Ensuring equal and sustained public access to government information. Gov. Inf. Q. 27
+(4), 371–376.
+Jarvenpaa, S.L., Tractinsky, N., Vitale, M., 2000. Consumer trust in an internet store. Inf. Technol. Manage. 1 (1), 45–71.
+Khan, G.F., Yoon, H.Y., Park, H.W., 2012. Social media use in public sector: A comparative study of the Korean & US Government Paper presented at the ATHS
+panel during the 8th International Conference on Webometrics, Informatics and Scientometrics & 13th COLLNET Meeting, 23–26 October 2012, Seoul,
+Korea.
+Khodyakov, D., 2007. The complexity of trust-control relationships in creative organizations: insights from a qualitative analysis of a conductorless
+orchestra. Soc. Forces 86 (1), 1–22.
+Kim, M., Park, H., 2012. Measuring Twitter-based political participation and deliberation in the South Korean context by using social network and Triple
+Helix indicators. Scientometrics 90 (1), 121–140.
+Kim, S.K., Park, M.J., Rho, J.J., 2013. Effect of the government’s use of social media on the reliability of the government: focus on Twitter. Public Manage. Rev.
+1, 1. http://dx.doi.org/10.1080/14719037.2013.822530.
+Lane, C., Bachmann, R., 1996. The social constitution of trust: supplier relations in Britain and Germany. Organ. Stud. 17, 365–395.
+Lee, M., 2010. Explaining and predicting users’ continuance intention toward e-learning: an extension of the expectation–conﬁrmation model. Comput.
+Educ. 54, 506–516.
+Mergel, I., 2010. The use of social media to dissolve knowledge silos in government. In: O’Leary, R., Kim, S., VanSlyke, D. (Eds.), The Future of Public
+Administration, Public Management, and Public Service around the World. Georgetown University Press, Washington, DC.
+Moon, J., 2003. Socializing business? Gov. Oppos. 38 (3), 265–273.
+Morgeson, F.V., VanAmburg, D., Mithas, S., 2011. Misplaced trust? Exploring the structure of the e-government–citizen trust relationship. J. Publ. Admin.
+Res. Theory 21 (2), 257–283.
+Motion, J., Leitch, S., Brodie, R., 2003. Equity in corporate co-branding: the case of Adidas and the all blacks. Eur. J. Mark. 37 (7), 1080–1094.
+Nass, C., Fogg, B.J., Moon, Y., 1996. Can computers be teammates? Int. J. Hum. Comput. Stud. 45 (6), 669–678.
+Nielsen, 2009. Global faces and networked places: a Nielsen report on social networking’s new global footprint. <http://www.nielsen-online.com>.
+Norris, P., 2003. Digital Divide: Civic Engagement, Information Poverty, and the Internet Worldwide. Taylor & Francis.
+Ohanian, R., 1990. Construction and validation of a scale to measure celebrity endorsers’ perceived expertise, trustworthiness, and attractiveness. J. Advert.
+19 (3), 39–52.
+Ostrom, E., 2000. Collective action and the evolution of social norms. J. Econ. Perspect. 14 (3), 137–158.
+Pavlou, P., Gefen, D., 2004. Building effective online marketplaces with institution-based trust. Inf. Syst. Res. 15 (1), 37–59.
+Pentina, I., Taylor, D.G., 2010. Exploring source effects for online sales outcomes: the role of avatar-buyer similarity. J. Customer Behav. 9 (2), 135–150.
+Pentina, I., Zhang, L., Basmanova, O., 2013. Antecedents and consequences of trust in a social media brand: a cross-cultural study of Twitter. Comput. Hum.
+Behav. 29 (4), 1546–1555.
+Poddar, A., Donthu, N., Wei, Y., 2009. Web site customer orientations, web site quality, and purchase intentions: the role of web site personality. J. Bus. Res.
+62 (4), 441–450.
+Putnam, R.D., 1995. Bowling alone: America’s declining social capital. J. Democr. 6 (1), 64–78.
+Reichheld, F.F., Schefter, P., 2000. E-loyalty. Harv. Bus. Rev. 78 (4), 105–113.
+Rho, S., Kim, C., 2007. User satisfaction on digital citizen participation and its effects on trust in government: with special reference to the ‘‘Contact the
+Mayor’’ in Guro district’. J. Korea Public Manage. 21 (3), 25–57 (written in Korean).
+Rothstein, B., Stolle, D., 2003. Social capital, impartiality and the welfare state: an institutional approach. In: Hooghe, M., Stolle, D. (Eds.), Generating Social
+Capital. Civil Society and Institutions in Comparative Perspective, New York, Palgrave, pp. 191–210.
+Rus, A., Iglič, H., 2005. Trust, governance and performance. The role of institutional and interpersonal trust in SME development. Int. Sociol. 20 (3), 371–391.
+Ruth, J., Simonin, B., 2003. Brought to you by brand A and brand B: investigating multiple sponsors’ inﬂuence on consumers’ attitudes toward sponsored
+events. J. Advert. 32 (3), 19–30.
+Shapiro, D.L., Sheppard, B.H., Cheraskin, L., 1992. In theory: business on a handshake. Negot. J. 8, 365–377.
+Shi, S., 2013. The use of Web 2.0 style technologies among Chinese civil society organizations. Telematics Inform. 30 (4), 346–358.
+SteenKamp, M., Hyde-Clarke, N., 2014. The use of Facebook for political commentary in South Africa. Telematics Inform. 31 (1), 91–97.
+Tajfel, H., Turner, J.C., 1986. The social identity theory of intergroup behavior. In: Worchel, S., Austin, W.G. (Eds.), The Psychology of Intergroup Relations.
+Nelson-Hall, Chicago.
+Thomas, C.W., 1998. Maintaining and restoring public trust in government agencies and their employees. Adm. Soc. 30 (2), 166–193.
+Tolbert, C.J., Mossberger, K., 2006. The effects of e-government on trust and conﬁdence in government. Public Admin. Rev. 66 (3), 354–369.
+Udo, G.J., Bagchi, K.K., Kirs, P.J., 2010. An assessment of customers’ e-service quality perception, satisfaction and intention. Int. J. Inf. Manage. 30 (6), 481–
+492.
+Uslaner, E.M., 2002. Social capital, television, and the ‘mean world’: trust, optimism, and civic participation. Polit. Psychol. 19, 441–467.
+Valenzuela, S., Park, N., Kee, K.F., 2009. Is there social capital in a social network site? Facebook use and college students’ life satisfaction, trust, and
+participation. J. Comput. Mediat. Commun. 14 (4), 875–901.
+Welch, E.W., Hinnant, C.C., Moon, M.J., 2005. Linking citizen satisfaction with e-government and trust in government. J. Publ. Admin. Res. Theory 15 (3),
+371–391.
+Whitener, E.M., Brodt, S.E., Korsgaard, M.A., Werner, J.M., 1998. Managers as initiators of trust: an exchange relationship framework for understanding
+managerial trustworthy behavior. Acad. Manage. Rev. 23 (3), 513–530.
+Zucker, L.G., 1986. Production of trust: Institutional sources of economic structure, 1840–1920. Res. Organ. Behav. 8, 53–111.
+
+
